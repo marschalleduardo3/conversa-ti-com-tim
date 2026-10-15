@@ -1,0 +1,1088 @@
+08/05/2025 09:56 - As mensagens e ligações são protegidas com a criptografia de ponta a ponta. Somente as pessoas que fazem parte da conversa podem ler, ouvir e compartilhar esse conteúdo. *Saiba mais*
+08/05/2025 09:56 - TI | ADVINTEGRA: Bom dia Guilherme
+08/05/2025 09:56 - TI | ADVINTEGRA: Tudo bem?
+08/05/2025 10:16 - Tim Empresarial Simplific Corporate Solutions: Bom dia tudo bem sim
+08/05/2025 10:16 - Tim Empresarial Simplific Corporate Solutions: E vc tudo certo??
+08/05/2025 10:16 - Tim Empresarial Simplific Corporate Solutions: Posso ajudar??
+08/05/2025 11:11 - TI | ADVINTEGRA: Guilherme, sou Gustavo, Gerente de TI aqui da ADVINTEGRA
+08/05/2025 11:11 - TI | ADVINTEGRA: Estamos com algum problema, e gostaria de ver se você poderia nos ajudar
+08/05/2025 11:11 - TI | ADVINTEGRA: Estamos com um problema, em que ate o momento temos 3 linhas nossas bloqueadas pelo whatsapp
+08/05/2025 11:11 - TI | ADVINTEGRA: Isso nunca ocorreu antes, e é somente linhas do plano
+08/05/2025 11:13 - TI | ADVINTEGRA: Tentei abrir uma solicitação no whatsapp, porém única maneira é enviar uma análise pelo próprio whatsapp e temos que aguardar, e enquanto isso essas pessoas estão sem o acesso, porque o whatsapp demora ate 24h pra verificar.
+
+Hoje cedo uma colaboradora já havia sido desbloqueada, e então foi responder os clientes que estavam pendentes, e foi bloqueada novamente.
+08/05/2025 11:18 - Tim Empresarial Simplific Corporate Solutions: em quais linhas isto está ocorrendo
+08/05/2025 11:18 - Tim Empresarial Simplific Corporate Solutions: ?
+08/05/2025 11:18 - Tim Empresarial Simplific Corporate Solutions: mas entenda que isso não tem haver com a prestadora (operadora) e sim com a proprietária do aplicativo ferramenta utilizada no caso o Grupo meta
+08/05/2025 11:19 - Tim Empresarial Simplific Corporate Solutions: se a linha estivesse na vivo, claro por exemplo o problema iria continuar sendo o mesmo em vista que o problema é com a whatsapp
+08/05/2025 11:19 - Tim Empresarial Simplific Corporate Solutions: a única coisa que eu posso fazer por aqui é te sugerir troca de número pra ver se o problema resolve, mas assim perde o número antigo, e geraria um novo número isso mantendo o mesmo chip
+08/05/2025 11:19 - Tim Empresarial Simplific Corporate Solutions: outra possibilidade seria, solicitar análise ali para a Meta e descrever a situação
+08/05/2025 11:20 - TI | ADVINTEGRA: Isso eu já realizei, estou aguardando o prazo de retorno deles.
+08/05/2025 11:20 - Tim Empresarial Simplific Corporate Solutions: em relação ao whatsapp eu naõ tenho nenhum poder depende deles mesmo
+08/05/2025 11:20 - Tim Empresarial Simplific Corporate Solutions: gostaria de poder ajudar mais
+08/05/2025 11:20 - Tim Empresarial Simplific Corporate Solutions: mas são situações que ocorrem até comigo e mesmo comigo não tenho o que fazer
+08/05/2025 11:20 - Tim Empresarial Simplific Corporate Solutions: até comentei com outra pessoa da sua empresa a alguns dias de MG
+08/05/2025 11:20 - Tim Empresarial Simplific Corporate Solutions: quando falei eu estava com o mesmo problema em dos whatsapps que utilizo aqui no meu setor
+08/05/2025 11:21 - TI | ADVINTEGRA: vou aguardar pra ver como se resolve isso ate amanha
+08/05/2025 11:21 - TI | ADVINTEGRA: caso contrario vamos ver então pra fazer a troca desses numeros
+08/05/2025 11:22 - Tim Empresarial Simplific Corporate Solutions: pra isso aqui eu tenho 3 whatsapp diferentes, pq pelo o que conversei com alguns agentes da meta existem algoritimos de limitação de quantidade de mensagens enviadas em relação a recebidas, que pode caracterizar como spam eles não abrem exatamente numeros mas tem dias que envio umas 2mil 3mil mensagens
+08/05/2025 11:22 - Tim Empresarial Simplific Corporate Solutions: entaõ preciso distribuir em whatsapp diferentes pra evitar bloqueios
+08/05/2025 11:22 - Tim Empresarial Simplific Corporate Solutions: blz
+08/05/2025 11:22 - TI | ADVINTEGRA: nossa mas a gente não chega nem perto disso
+08/05/2025 11:22 - TI | ADVINTEGRA: uma funcionaria nossa relatou que mandou mensagem pra 20 clientes no maximo
+08/05/2025 11:22 - TI | ADVINTEGRA: e foi bloqueada
+08/05/2025 11:22 - Tim Empresarial Simplific Corporate Solutions: sim entendo, mas é um algoritmo que detecta um padrão
+08/05/2025 11:22 - TI | ADVINTEGRA: muito estranho
+08/05/2025 11:22 - Tim Empresarial Simplific Corporate Solutions: não tem haver com o volume diretamente
+08/05/2025 11:23 - Tim Empresarial Simplific Corporate Solutions: e sim com a quantidade de mensagens recebidas em comparativa com as enviadas
+08/05/2025 11:23 - Tim Empresarial Simplific Corporate Solutions: por exemplo se eu receber 0 mensagens e enviar 50 posso ser bloqueado
+08/05/2025 11:23 - Tim Empresarial Simplific Corporate Solutions: se eu receber 100 mensagens posso enviar 100 tranquilamente
+08/05/2025 11:23 - Tim Empresarial Simplific Corporate Solutions: se eu receber 1000 posso enviar por volta de 1000
+08/05/2025 11:23 - Tim Empresarial Simplific Corporate Solutions: meio que não pode mandar mais do que recebe +/-
+08/05/2025 11:24 - Tim Empresarial Simplific Corporate Solutions: isso sem considerar pessoas que possam estar denunciando como spam
+08/05/2025 11:24 - Tim Empresarial Simplific Corporate Solutions: assim com 10 envios ja pode ser banido
+08/05/2025 11:24 - Tim Empresarial Simplific Corporate Solutions: por exemplo se vc recebe mensagens de uma pessoa que não tem vc nos contatos ela tem uma opção ali dentro da conversa ja destacada dizendo que não aceitou receber o contato ou para denunciar como spam, fraude, tem varias opções
+08/05/2025 11:24 - Tim Empresarial Simplific Corporate Solutions: se pessoa clica em uma delas
+08/05/2025 11:25 - Tim Empresarial Simplific Corporate Solutions: e isso acontece com umas 5 ou 10 pessoas ja é banido na hora
+08/05/2025 11:25 - Tim Empresarial Simplific Corporate Solutions: ai precisa pedir pra liberar e depois precisa ficar sem enviar mensagens quando recuperar , no caso so receber por um tempo até o algoritmo perceber que vc não é spma
+08/05/2025 11:25 - Tim Empresarial Simplific Corporate Solutions: tem bastante coisa nos termos e condições no site sobre isso
+08/05/2025 11:25 - TI | ADVINTEGRA: a questão da troca do número, impacta no whatsapp? histórico de conversas, etc
+08/05/2025 11:26 - Tim Empresarial Simplific Corporate Solutions: da pra manter
+08/05/2025 11:26 - Tim Empresarial Simplific Corporate Solutions: após trocar de numero na operadora dentro do whatsapp da pra fazer o mesmo
+08/05/2025 11:26 - Tim Empresarial Simplific Corporate Solutions: espera liberar vai ali nas configurações e clica em troca de número
+08/05/2025 11:26 - Tim Empresarial Simplific Corporate Solutions: e ai vai pedir o numero
+08/05/2025 11:26 - Tim Empresarial Simplific Corporate Solutions: vc digita e então vai pra receber um sms no novo numero e ai ja troca normal e mantem o whatsapp e conversas e tudo mais
+08/05/2025 11:26 - TI | ADVINTEGRA: entendi
+08/05/2025 11:27 - TI | ADVINTEGRA: vamos aguardar os próximos capítulos então kkk
+08/05/2025 11:27 - TI | ADVINTEGRA: qualque coisa entro em contato novamente contigo
+08/05/2025 11:27 - TI | ADVINTEGRA: obrigado pela ajuda
+08/05/2025 11:28 - Tim Empresarial Simplific Corporate Solutions: tranquilo
+08/05/2025 11:28 - Tim Empresarial Simplific Corporate Solutions: qualquer coisa me avisa
+08/05/2025 11:28 - Tim Empresarial Simplific Corporate Solutions: forte abraço
+22/08/2025 10:33 - TI | ADVINTEGRA: Bom dia Guilherme
+22/08/2025 10:33 - TI | ADVINTEGRA: Tudo bem?
+22/08/2025 10:33 - Tim Empresarial Simplific Corporate Solutions: Bem vindo ao canal  *Enterprise Business TIM*
+
+Obrigado por seu contato!
+
+Você precisa de linhas *novas* ou portabilidade?
+
+*Qual seu CNPJ?*
+22/08/2025 10:34 - Tim Empresarial Simplific Corporate Solutions: bom dia
+22/08/2025 10:34 - Tim Empresarial Simplific Corporate Solutions: tudo bem sim e vc ?
+22/08/2025 10:34 - Tim Empresarial Simplific Corporate Solutions: posso ajudar?
+22/08/2025 10:34 - Tim Empresarial Simplific Corporate Solutions: Você precisa de linhas *novas* ou portabilidade?
+22/08/2025 10:47 - TI | ADVINTEGRA: Falo com quem?
+22/08/2025 10:48 - Tim Empresarial Simplific Corporate Solutions: Guilherme
+22/08/2025 10:48 - Tim Empresarial Simplific Corporate Solutions: como posso ajudar?
+22/08/2025 10:49 - TI | ADVINTEGRA: Opa beleza
+22/08/2025 10:50 - TI | ADVINTEGRA: Guilherme, lembra que um tempo atras eu comentei com voce sobre bloqueios que o whatsapp vinha fazendo?
+22/08/2025 10:50 - TI | ADVINTEGRA: agora um dos nossos números teve um bloqueio definitivo
+22/08/2025 10:50 - Tim Empresarial Simplific Corporate Solutions: entendi
+22/08/2025 10:50 - Tim Empresarial Simplific Corporate Solutions: vc quer trocar o numero ?
+22/08/2025 10:50 - TI | ADVINTEGRA: sim
+22/08/2025 10:51 - TI | ADVINTEGRA: +55 34 9295-0017
+22/08/2025 10:51 - TI | ADVINTEGRA: esse foi o numero
+22/08/2025 10:51 - TI | ADVINTEGRA: qual o procedimento?
+22/08/2025 10:54 - Tim Empresarial Simplific Corporate Solutions: no meu tim eles trocam
+22/08/2025 10:54 - Tim Empresarial Simplific Corporate Solutions: vc tem acesso ao login e senha do adm do meutim?
+22/08/2025 10:54 - Tim Empresarial Simplific Corporate Solutions: após entrar na área logada vai no assistente virtual - TIM CHAT
+22/08/2025 10:54 - Tim Empresarial Simplific Corporate Solutions: clica ali
+22/08/2025 10:54 - Tim Empresarial Simplific Corporate Solutions: quando abrir a nova pagina pede atendimento humano
+22/08/2025 10:55 - Tim Empresarial Simplific Corporate Solutions: quando for transferido. confirma os dados da empresa e pede pra fazer a troca
+22/08/2025 10:55 - Tim Empresarial Simplific Corporate Solutions: eles fazem por ali
+22/08/2025 10:55 - Tim Empresarial Simplific Corporate Solutions: é só explicar que o whatsapp foi banido e que precisa mudar o numero
+22/08/2025 10:55 - TI | ADVINTEGRA: nao tenho
+22/08/2025 10:55 - TI | ADVINTEGRA: mas dai da pra usar o mesmo chip? ou vai um chip novo
+22/08/2025 10:56 - Tim Empresarial Simplific Corporate Solutions: ADVINTEGRA ltda CNPJ      31778361000197    
+    
+Login  140061988
+Senha  4021
+22/08/2025 10:56 - Tim Empresarial Simplific Corporate Solutions: Da pra usar o mesmo chip
+22/08/2025 11:00 - TI | ADVINTEGRA: beleza, já entrei em contato aqui
+22/08/2025 11:04 - Tim Empresarial Simplific Corporate Solutions: okk
+22/08/2025 11:04 - Tim Empresarial Simplific Corporate Solutions: qualquer dúvida me avisa
+22/08/2025 11:04 - TI | ADVINTEGRA: esse procedimento demora? pra fazer essa troca?
+22/08/2025 11:05 - Tim Empresarial Simplific Corporate Solutions: fazem na hora
+22/08/2025 11:06 - Tim Empresarial Simplific Corporate Solutions: tem caráter imediato
+22/08/2025 11:06 - TI | ADVINTEGRA: só demoram um pouco pra responder ne
+22/08/2025 11:06 - TI | ADVINTEGRA: Mensagem apagada
+22/08/2025 11:06 - TI | ADVINTEGRA: ‎IMG-20250822-WA0013.jpg (arquivo anexado)
+22/08/2025 11:07 - Tim Empresarial Simplific Corporate Solutions: é , precisa aguardar ser atendido
+22/08/2025 11:26 - TI | ADVINTEGRA: ‎IMG-20250822-WA0018.jpg (arquivo anexado)
+22/08/2025 11:26 - TI | ADVINTEGRA: como assim adm incorreto?
+22/08/2025 11:26 - TI | ADVINTEGRA: quem que ta como administrador na nossa conta?
+22/08/2025 11:26 - TI | ADVINTEGRA: Mandei meu nome ali, acho que isso que ela questionou
+22/08/2025 11:26 - Tim Empresarial Simplific Corporate Solutions: npme MAURO CASTANHO MENDES
+cpf 00584139950
+22/08/2025 11:30 - Tim Empresarial Simplific Corporate Solutions: deu certo?
+22/08/2025 11:30 - TI | ADVINTEGRA: to esperando me responderem de novo
+22/08/2025 11:33 - Tim Empresarial Simplific Corporate Solutions: tranquilo
+22/08/2025 11:40 - TI | ADVINTEGRA: ‎IMG-20250822-WA0019.jpg (arquivo anexado)
+22/08/2025 11:42 - TI | ADVINTEGRA: e agora?
+22/08/2025 11:43 - Tim Empresarial Simplific Corporate Solutions: so um momento
+22/08/2025 11:43 - Tim Empresarial Simplific Corporate Solutions: vou verificar aqui
+22/08/2025 11:47 - Tim Empresarial Simplific Corporate Solutions: ja identifiquei , ainda está no nome do Carlos >>
+22/08/2025 11:47 - Tim Empresarial Simplific Corporate Solutions: ADM
+CARLOS SENA
+CPF 005.841.399-50
+22/08/2025 11:48 - Tim Empresarial Simplific Corporate Solutions: vc pode confirmar e depois corrigir
+22/08/2025 11:48 - Tim Empresarial Simplific Corporate Solutions: ali no meutim
+22/08/2025 11:48 - TI | ADVINTEGRA: como fazemos pra mudar isso?
+22/08/2025 11:48 - Tim Empresarial Simplific Corporate Solutions: em dados cadastrais
+22/08/2025 11:48 - TI | ADVINTEGRA: ja procurei ali e nao encontrei
+22/08/2025 11:48 - Tim Empresarial Simplific Corporate Solutions: atualiza dados do adm
+22/08/2025 11:48 - TI | ADVINTEGRA: carlos nao faz mais parte da empresa
+22/08/2025 11:48 - Tim Empresarial Simplific Corporate Solutions: sim estou ciente
+22/08/2025 11:48 - Tim Empresarial Simplific Corporate Solutions: ele comentou comigo quando saiu
+22/08/2025 11:48 - Tim Empresarial Simplific Corporate Solutions: a Cristina me avisou tb
+22/08/2025 11:48 - Tim Empresarial Simplific Corporate Solutions: enfim
+22/08/2025 11:48 - TI | ADVINTEGRA: vou mudar ali
+22/08/2025 11:48 - TI | ADVINTEGRA: achei agora
+22/08/2025 11:48 - Tim Empresarial Simplific Corporate Solutions: blz
+22/08/2025 11:49 - Tim Empresarial Simplific Corporate Solutions: qualquer dúvida me avisa
+22/08/2025 11:49 - Tim Empresarial Simplific Corporate Solutions: após atualizar sai e entra de volta pra ver se salvou
+22/08/2025 11:49 - Tim Empresarial Simplific Corporate Solutions: as vezes tem que fazer mais de uma vez pra salvar mesmo
+22/08/2025 11:49 - TI | ADVINTEGRA: blz
+22/08/2025 11:49 - Tim Empresarial Simplific Corporate Solutions: pra evitar falhas
+22/08/2025 11:49 - Tim Empresarial Simplific Corporate Solutions: so quando sair entra de novo pra ver se realmente mudou
+22/08/2025 11:49 - Tim Empresarial Simplific Corporate Solutions: se tiver acontecido na proxima ja vai puxar automatico
+03/09/2025 14:04 - TI | ADVINTEGRA: Fala Guilherme
+03/09/2025 14:04 - TI | ADVINTEGRA: Tudo bem?
+03/09/2025 14:05 - Tim Empresarial Simplific Corporate Solutions: boa tarde tudo bem sim e vc ?
+03/09/2025 14:05 - TI | ADVINTEGRA: Cara, mais uma vez tive o problema do whatsapp bloquear um numero nosso. E dessa vez foi um lacrado, abri o chip antes do almoço, e quando vniculei no whats, tava bloqueado. Entrei em contato com eles conforme me orientou, me passaram um segundo numero pra substituir, bloqueado tbm. E agora nao me respondem mais kkkk
+03/09/2025 14:05 - TI | ADVINTEGRA: ‎IMG-20250903-WA0009.jpg (arquivo anexado)
+03/09/2025 14:10 - Tim Empresarial Simplific Corporate Solutions: o chat ta com uma instabilidade agora no período da tarde
+03/09/2025 14:10 - Tim Empresarial Simplific Corporate Solutions: o pessoal la naõ está recebendo as mensagens
+03/09/2025 14:10 - Tim Empresarial Simplific Corporate Solutions: ja foi aberto a demanda sobre o problemaa
+03/09/2025 14:10 - Tim Empresarial Simplific Corporate Solutions: previsão pra normalizar 24hrs
+03/09/2025 14:22 - TI | ADVINTEGRA: Acabaram de me liberar um numero novo
+03/09/2025 14:22 - TI | ADVINTEGRA: vinculei no whatsapp
+03/09/2025 14:22 - TI | ADVINTEGRA: bloqueado na hora
+03/09/2025 14:22 - TI | ADVINTEGRA: tem alguma coisa acontecendo guilhermer
+03/09/2025 14:23 - TI | ADVINTEGRA: isso nao é normal
+03/09/2025 14:23 - TI | ADVINTEGRA: sera que é alguma coisa com whatsapp business?
+03/09/2025 14:24 - Tim Empresarial Simplific Corporate Solutions: boa pergunta
+03/09/2025 14:24 - Tim Empresarial Simplific Corporate Solutions: vc está chegando a realizar algum envio de mensagens neste equipamento?
+03/09/2025 14:24 - TI | ADVINTEGRA: 3 numeros disponibilizados, 3 bloqueados
+03/09/2025 14:24 - TI | ADVINTEGRA: nada
+03/09/2025 14:24 - Tim Empresarial Simplific Corporate Solutions: minha sugestão é exclui o app
+03/09/2025 14:24 - TI | ADVINTEGRA: nao da nem tempo!
+03/09/2025 14:24 - Tim Empresarial Simplific Corporate Solutions: e baixa novamente
+03/09/2025 14:24 - TI | ADVINTEGRA: a hora que eu finalizo com a foto de perfil, ele é bloqueado
+03/09/2025 14:24 - Tim Empresarial Simplific Corporate Solutions: pede uma análise do whatsapp e descreve a situação
+03/09/2025 14:24 - Tim Empresarial Simplific Corporate Solutions: escreve ali que o número é novo e está sendo bloqueado sem nem ser utilizado
+03/09/2025 14:25 - Tim Empresarial Simplific Corporate Solutions: pode ser um erro da própria empresa Meta
+22/09/2025 11:51 - TI | ADVINTEGRA: Guilherme bom dia meu amjgo
+22/09/2025 11:51 - Tim Empresarial Simplific Corporate Solutions: Bem vindo ao canal  *Enterprise Business TIM*
+
+Obrigado por seu contato!
+
+Você precisa de linhas *novas* ou portabilidade?
+
+*Qual seu CNPJ?*
+22/09/2025 11:51 - TI | ADVINTEGRA: Consegue me tirar uma duvida?
+22/09/2025 11:51 - Tim Empresarial Simplific Corporate Solutions: Bom dia
+22/09/2025 11:51 - TI | ADVINTEGRA: Você tem acesso ai pra me dizer quanto que nos pagamos por chip hoje?
+22/09/2025 11:51 - Tim Empresarial Simplific Corporate Solutions: Tudo bemm??
+22/09/2025 11:51 - TI | ADVINTEGRA: Não sei como encontrar isos
+22/09/2025 11:51 - Tim Empresarial Simplific Corporate Solutions: Sim consigo auxiliar
+22/09/2025 11:52 - TI | ADVINTEGRA: Top
+22/09/2025 11:57 - TI | ADVINTEGRA: Preciso repassar aqui pra esse valor, que me solicitaram
+22/09/2025 11:58 - Tim Empresarial Simplific Corporate Solutions: okk
+22/09/2025 12:09 - Tim Empresarial Simplific Corporate Solutions: <Mídia oculta>
+relatorio advintegra.xlsx
+22/09/2025 12:09 - Tim Empresarial Simplific Corporate Solutions: <Mídia oculta>
+fatura detalhada advintegra.pdf
+22/09/2025 12:11 - Tim Empresarial Simplific Corporate Solutions: se precisar buscar redução em alguma linha eu posso ajudar a buscar
+22/09/2025 12:12 - Tim Empresarial Simplific Corporate Solutions: aquelas linhas que estão na faixa de 7 reais é por que foram contratadas recentemente por isso só gerou proporcional
+22/09/2025 12:12 - Tim Empresarial Simplific Corporate Solutions: no detalhamento da pra ver o motivo de cada cobrança acima , tem no demosntrativo detalhado acima
+22/09/2025 12:12 - Tim Empresarial Simplific Corporate Solutions: se tiver dúvidas me avisa
+25/09/2025 16:53 - TI | ADVINTEGRA: Boa tarde
+25/09/2025 16:53 - TI | ADVINTEGRA: Tudo bem ?
+25/09/2025 16:56 - Tim Empresarial Simplific Corporate Solutions: Boa tarde tudo bem sim e com vc??
+25/09/2025 16:58 - TI | ADVINTEGRA: Tudo certo também
+25/09/2025 16:58 - TI | ADVINTEGRA: Estou com um chip novo e  precisava fazer a contratação de um novo número
+25/09/2025 16:59 - TI | ADVINTEGRA: Com o DDD 51
+25/09/2025 17:05 - TI | ADVINTEGRA: Consegue ajudar a gente?
+25/09/2025 17:15 - Tim Empresarial Simplific Corporate Solutions: Sim
+25/09/2025 17:16 - Tim Empresarial Simplific Corporate Solutions: Vou gerar o pedido
+25/09/2025 17:16 - Tim Empresarial Simplific Corporate Solutions: Me confirma o pacote?
+25/09/2025 17:16 - Tim Empresarial Simplific Corporate Solutions: 📶💙 *PRINCIPAIS OFERTAS TIM EMPRESA* 💙📶
+_Linhas Novas • Aditivas • Portabilidade_
+
+🔥 *70GB* ➡️ R$ 59,99/mês  
+🔥 *40GB* ➡️ R$ 50,99/mês  
+🔥 *12GB* ➡️ R$ 39,99/mês  
+🔥 *6GB* ➡️ R$ 29,99/mês  
+
+_*Valores unitários por linha_  
+_Válido no mês de Setembro/2025_  
+
+✅ Internet 4G/5G de alta velocidade  
+✅ Cobertura nacional  
+✅ Suporte especializado para empresas  
+📲 *Confirme comigo e formalizamos hoje mesmo!*
+25/09/2025 17:23 - TI | ADVINTEGRA: Plano de 12Gb valor de 39,99
+25/09/2025 18:09 - Tim Empresarial Simplific Corporate Solutions: Blz
+25/09/2025 18:10 - Tim Empresarial Simplific Corporate Solutions: Vou providenciar
+26/09/2025 07:55 - TI | ADVINTEGRA: Bom dia
+26/09/2025 07:55 - TI | ADVINTEGRA: Tudo bem ?
+26/09/2025 07:55 - TI | ADVINTEGRA: Algum retorno sobre o número ?
+26/09/2025 09:12 - Tim Empresarial Simplific Corporate Solutions: Oi bom dia tudo bem sim e com vc?
+26/09/2025 09:13 - Tim Empresarial Simplific Corporate Solutions: Em qual e-mail vc vai usar pra validar o pedido?
+26/09/2025 09:15 - TI | ADVINTEGRA: financeiro@advintegra.com.br
+26/09/2025 09:32 - Tim Empresarial Simplific Corporate Solutions: ok
+26/09/2025 10:04 - Tim Empresarial Simplific Corporate Solutions: *26/09/2025 10:04:18 - E-mail com dados da contratação enviado para aceite digital do cliente financeiro@advintegra.com.br*
+26/09/2025 10:05 - Tim Empresarial Simplific Corporate Solutions: Foi enviado o aceite de pedido no seu e-mail de cadastro, enviado de pedido@pedidostimcorp.com.br 
+
+No e-mail vai ter um link, você clica neste link e libera com a chave de acesso abaixo
+26/09/2025 10:05 - Tim Empresarial Simplific Corporate Solutions: chave de acesso > 614894400500584
+26/09/2025 10:05 - Tim Empresarial Simplific Corporate Solutions: 614894400500584
+26/09/2025 10:06 - Tim Empresarial Simplific Corporate Solutions: Após liberar vai até o final da página e conclui, assim que finalizar me avisa pra dar sequência, ok?
+26/09/2025 10:14 - TI | ADVINTEGRA: Positivo, solicitei aqui a moça do financeiro fazer essas tratativas. Assim que ela me retornar repasso a voce
+26/09/2025 10:16 - Tim Empresarial Simplific Corporate Solutions: beleza
+26/09/2025 10:58 - TI | ADVINTEGRA: Feito
+26/09/2025 10:58 - TI | ADVINTEGRA: qual o próximo passo?
+26/09/2025 10:58 - Tim Empresarial Simplific Corporate Solutions: só aguardar , vai análise após aprovado e entregue o chip no endereço fiscal
+26/09/2025 10:58 - Tim Empresarial Simplific Corporate Solutions: em torno de 3 dias pra entrega
+26/09/2025 10:59 - TI | ADVINTEGRA: Nós ja temos o chip
+26/09/2025 10:59 - TI | ADVINTEGRA: Ele é um novo que foi entregue ontem
+26/09/2025 11:01 - Tim Empresarial Simplific Corporate Solutions: Toda solicitação de número novo feita na TIM EMPRESA, Quando o DDD da linha for foram do 41 ao 49 , é necessário entrega do chip no endereço fiscal 
+
+No caso o pedido de linhas nova com DDD 51 é enviado no endereço fiscal obrigatoriamente.
+26/09/2025 11:02 - Tim Empresarial Simplific Corporate Solutions: se fosse um DDD do 41 ao 49 , ai poderia gerar via fast chip e então vc poderia utilizar um chip virgem que poderia ser retirado em loja, seria a única possibilidade de não precisar realizar a entrega.
+26/09/2025 11:02 - Tim Empresarial Simplific Corporate Solutions: não há outra forma...
+26/09/2025 11:03 - Tim Empresarial Simplific Corporate Solutions: ou seja, sempre que vc precisar de mais linhas peça diretamente aqui comigo, assim eu te auxilio nas solicitações, afinal eu sou o consultor responsavel pela sua empresa
+26/09/2025 11:03 - TI | ADVINTEGRA: A Cristina já tinha conversado com você né ?
+26/09/2025 11:04 - Tim Empresarial Simplific Corporate Solutions: sim , algumas vezes falei com ela sim , ja havia orientado ela desta questão também
+26/09/2025 11:05 - Tim Empresarial Simplific Corporate Solutions: você ficou com alguma dúvida?
+26/09/2025 11:05 - TI | ADVINTEGRA: Ela comentou que estava certo, somente tinha que realizar a liberação do numero
+26/09/2025 11:05 - TI | ADVINTEGRA: Então esse chip que temos agr virgem
+26/09/2025 11:05 - TI | ADVINTEGRA: Não vai dar para colocar o DDD 51
+26/09/2025 11:05 - Tim Empresarial Simplific Corporate Solutions: me manda foto do chip fazendo favor
+26/09/2025 11:06 - Tim Empresarial Simplific Corporate Solutions: que eu ja te digo
+26/09/2025 11:06 - TI | ADVINTEGRA: Realmente vai ser preciso o Novo entregue no endereço fiscal ?
+26/09/2025 11:06 - TI | ADVINTEGRA: So um minuto
+26/09/2025 11:06 - Tim Empresarial Simplific Corporate Solutions: sempre que for um DDD diferente sim
+26/09/2025 11:08 - TI | ADVINTEGRA: ‎IMG-20250926-WA0018.jpg (arquivo anexado)
+26/09/2025 11:08 - TI | ADVINTEGRA: ‎IMG-20250926-WA0020.jpg (arquivo anexado)
+26/09/2025 11:12 - Tim Empresarial Simplific Corporate Solutions: este chip é de um pedido que a Cristina havia feito comigo mes passado
+26/09/2025 11:12 - Tim Empresarial Simplific Corporate Solutions: o número gerado para este chip é >  51984400007 - Ativação: 27/08/2025
+26/09/2025 11:12 - Tim Empresarial Simplific Corporate Solutions: ja está ativo no CNPJ de vcs
+14/11/2025 08:07 - TI | ADVINTEGRA: Bom dia Guilherme
+14/11/2025 08:07 - TI | ADVINTEGRA: Tudo bem?
+14/11/2025 08:24 - Tim Empresarial Simplific Corporate Solutions: Bom dia tudo bem sim e com vc??
+14/11/2025 08:41 - TI | ADVINTEGRA: Tudo bem tbm
+14/11/2025 08:41 - TI | ADVINTEGRA: Cara me tira uma duvida
+14/11/2025 08:41 - TI | ADVINTEGRA: temos um chip aqui com um ddd 071
+14/11/2025 08:41 - TI | ADVINTEGRA: que é la de salvador, porem agora vou passar para um colaborador la de goiania
+14/11/2025 08:42 - TI | ADVINTEGRA: qual a possibilidade de fazer um numero novo com o mesmo chipp fisico
+14/11/2025 08:43 - TI | ADVINTEGRA: 071992610070
+14/11/2025 08:43 - TI | ADVINTEGRA: esse é o numero
+14/11/2025 09:15 - TI | ADVINTEGRA: acha que consegue fazer algo pra nos?
+14/11/2025 09:16 - TI | ADVINTEGRA: ou pelo chat online da tim, eles fariam a troca do ddd e numero?
+14/11/2025 09:58 - Tim Empresarial Simplific Corporate Solutions: infelizmente não
+14/11/2025 09:59 - Tim Empresarial Simplific Corporate Solutions: da pra trocar o número sim
+14/11/2025 09:59 - Tim Empresarial Simplific Corporate Solutions: mas trocar o DDD não da
+14/11/2025 09:59 - Tim Empresarial Simplific Corporate Solutions: no timchat eles fazem troca de número ali sim
+14/11/2025 09:59 - Tim Empresarial Simplific Corporate Solutions: mas só do número o DDD permanece o mesmo
+14/11/2025 09:59 - TI | ADVINTEGRA: e como poderia fazer nesse caso?
+14/11/2025 09:59 - TI | ADVINTEGRA: cancelar o numero e pegar um novo?
+14/11/2025 09:59 - Tim Empresarial Simplific Corporate Solutions: gerar um número novo no DDD que vc precisa
+14/11/2025 09:59 - TI | ADVINTEGRA: pra cancelar esse numero, tem multa?
+14/11/2025 10:00 - Tim Empresarial Simplific Corporate Solutions: vou verificar
+14/11/2025 10:24 - Tim Empresarial Simplific Corporate Solutions: tem fidelidade sim até > 06/08/2027
+14/11/2025 10:25 - Tim Empresarial Simplific Corporate Solutions: valor aproximado de multa para cancelar a linha hoje R$630
+18/11/2025 13:46 - TI | ADVINTEGRA: Boa tarde Guilherme
+18/11/2025 13:47 - TI | ADVINTEGRA: Tudo bem?
+18/11/2025 13:57 - Tim Empresarial Simplific Corporate Solutions: opa
+18/11/2025 13:57 - Tim Empresarial Simplific Corporate Solutions: boa tarde
+18/11/2025 13:57 - Tim Empresarial Simplific Corporate Solutions: tudo bem sim e vc ?
+18/11/2025 14:42 - TI | ADVINTEGRA: Guilherme, estamos com problema novamente com os numeros que estão sendo disponibilizados.
+18/11/2025 14:42 - TI | ADVINTEGRA: A meta está bloqueando numeros novos disponibilizados
+18/11/2025 14:42 - TI | ADVINTEGRA: Antes eu conseguia solicitar pelo chat
+18/11/2025 14:42 - TI | ADVINTEGRA: agora é só por email, e mesmo assim a gente nao consegue
+18/11/2025 14:42 - TI | ADVINTEGRA: ja mandamos email com email do mauro, financeiro, o meu
+18/11/2025 14:42 - TI | ADVINTEGRA: e todos são o mesmo retorno
+18/11/2025 14:43 - TI | ADVINTEGRA: eu nao sei mais o que fazer
+18/11/2025 14:43 - TI | ADVINTEGRA: ‎IMG-20251118-WA0027.jpg (arquivo anexado)
+18/11/2025 14:43 - TI | ADVINTEGRA: o administrador da linha é o mauro
+18/11/2025 14:43 - TI | ADVINTEGRA: e nem assim eles estão aceitando
+18/11/2025 14:43 - TI | ADVINTEGRA: estou pagando por um numero que está parado
+18/11/2025 14:43 - Tim Empresarial Simplific Corporate Solutions: qual número ?
+18/11/2025 14:43 - TI | ADVINTEGRA: 62986630011
+18/11/2025 14:43 - Tim Empresarial Simplific Corporate Solutions: qual número foi bloqueado ?
+
+DDD+ num
+18/11/2025 14:43 - TI | ADVINTEGRA: .
+18/11/2025 14:44 - Tim Empresarial Simplific Corporate Solutions: a meta é uma empresa privada terceira que não pertence e não tem relações com o Grupo TIM.
+A Meta  tem suas politicas próprias que você pode consultar no site deles
+18/11/2025 14:44 - Tim Empresarial Simplific Corporate Solutions: talvez seja apropriado fazer uma API oficial ou verificação o que normalmente impede de ter números banidos
+18/11/2025 14:45 - Tim Empresarial Simplific Corporate Solutions: ainda é possível solicitar troca de número via TIMCHAT
+18/11/2025 14:45 - Tim Empresarial Simplific Corporate Solutions: só que precisa ser o ADM , o adm não necessariamente é o Mauro, é qualqeur pessoa que vc cadastrar ali dentro do meutim
+18/11/2025 14:45 - Tim Empresarial Simplific Corporate Solutions: pode ser vc mesmo temporariamente
+18/11/2025 14:45 - Tim Empresarial Simplific Corporate Solutions: entra ali no meutim, clica em dados cadastrais , vai em atualizar dados do administrador
+18/11/2025 14:45 - Tim Empresarial Simplific Corporate Solutions: e coloca ali seus dados e salva
+18/11/2025 14:45 - Tim Empresarial Simplific Corporate Solutions: e pronto
+18/11/2025 14:45 - Tim Empresarial Simplific Corporate Solutions: vc estará como adm
+18/11/2025 14:46 - Tim Empresarial Simplific Corporate Solutions: e depois podes atualizar quantas vezes forem necessárias
+18/11/2025 14:46 - Tim Empresarial Simplific Corporate Solutions: sugestão é fazer via timchat e não por e-mail
+18/11/2025 14:47 - TI | ADVINTEGRA: nao é possivel, eu estou tentando o dia todo e eles me dao o mesmo retorno
+18/11/2025 14:48 - Tim Empresarial Simplific Corporate Solutions: o que vc quer fazer é só trocar o número por outro seria isso?
+18/11/2025 14:48 - TI | ADVINTEGRA: exatamente, pra eu poder dar esse numero para o colaborador vincular o whats
+18/11/2025 14:48 - Tim Empresarial Simplific Corporate Solutions: passa aqui o login e senha que vc está usando deixa eu verificar com o setor responsável
+18/11/2025 14:48 - Tim Empresarial Simplific Corporate Solutions: blz
+18/11/2025 14:48 - TI | ADVINTEGRA: ‎IMG-20251118-WA0029.jpg (arquivo anexado)
+18/11/2025 14:49 - TI | ADVINTEGRA: .. esse login
+18/11/2025 14:50 - Tim Empresarial Simplific Corporate Solutions: blz
+18/11/2025 15:17 - Tim Empresarial Simplific Corporate Solutions: troca realizada com sucesso
+18/11/2025 15:17 - Tim Empresarial Simplific Corporate Solutions: novo numero :
+
+* 62982840023
+18/11/2025 15:23 - Tim Empresarial Simplific Corporate Solutions: ja foi testado e está apto pra utilização no whatsapp
+18/11/2025 15:29 - Tim Empresarial Simplific Corporate Solutions: seria somente isso?
+
+sempre que vc tiver demandas não resolvidas pode me trazer , que eu estarei feliz em auxiliar
+18/11/2025 16:54 - TI | ADVINTEGRA: muito agradecido guilherme
+18/11/2025 16:54 - TI | ADVINTEGRA: como voce resolveu
+18/11/2025 16:54 - TI | ADVINTEGRA: ?
+18/11/2025 16:54 - TI | ADVINTEGRA: pra eu nao precisar te incomodar
+18/11/2025 17:11 - TI | ADVINTEGRA: como voce tentou usar o whatsapp?}
+18/11/2025 17:11 - TI | ADVINTEGRA: ‎IMG-20251118-WA0048.jpg (arquivo anexado)
+18/11/2025 17:11 - TI | ADVINTEGRA: ta pedindo confirmação em duas etapas aqui
+18/11/2025 17:11 - TI | ADVINTEGRA: esse numero
+18/11/2025 17:13 - Tim Empresarial Simplific Corporate Solutions: Clica ali em esqueceu o pin
+18/11/2025 17:13 - Tim Empresarial Simplific Corporate Solutions: É via timchat mesmo
+18/11/2025 17:14 - TI | ADVINTEGRA: entao o problema é eu, porque pra mim eles falam isso e finalizam o chamado
+18/11/2025 17:14 - TI | ADVINTEGRA: kkkk
+18/11/2025 17:14 - Tim Empresarial Simplific Corporate Solutions: depende do operadora que pega mesmo
+18/11/2025 17:14 - Tim Empresarial Simplific Corporate Solutions: as vezes vale a pena encerrar e iniciar um novo atendimento
+18/11/2025 17:14 - Tim Empresarial Simplific Corporate Solutions: geralmente resolve
+18/11/2025 17:15 - TI | ADVINTEGRA: ‎IMG-20251118-WA0050.jpg (arquivo anexado)
+18/11/2025 17:15 - Tim Empresarial Simplific Corporate Solutions: pelo o que vi está vinculado uma confirmação de duas etapas
+18/11/2025 17:15 - TI | ADVINTEGRA: cara ele ta dando como se ja tivesse algo, mas nao é um numero zerado?
+18/11/2025 17:15 - TI | ADVINTEGRA: ele nao chegou a vincular conta alguma, e ta indo pra alguma conta
+18/11/2025 17:16 - Tim Empresarial Simplific Corporate Solutions: a TIM reutiliza linhas que estão na base de linhas disponíveis ( linhas com cancelamentos antigos a mais de 1 ano) entram na base de linhas para revenda, algo no qual não temos acesso, se é uma linha zerada (nova) ou reutilizada (linha que ja teve uso no passado)
+18/11/2025 17:16 - Tim Empresarial Simplific Corporate Solutions: mas ali referente ao whatsapp
+18/11/2025 17:17 - Tim Empresarial Simplific Corporate Solutions: ele libera em 5 dias
+18/11/2025 17:17 - TI | ADVINTEGRA: eu acho que vou ter que pedir um novo numero entao, zerado, sem registro de verificação etc
+18/11/2025 17:17 - Tim Empresarial Simplific Corporate Solutions: não tenho como saber isso
+18/11/2025 17:17 - Tim Empresarial Simplific Corporate Solutions: muito menos referente ao whatsapp
+18/11/2025 17:18 - Tim Empresarial Simplific Corporate Solutions: só depois do número ativo que da pra tentar configurar
+18/11/2025 17:18 - TI | ADVINTEGRA: o que voce mandou é um numero novo, ne?
+18/11/2025 17:18 - Tim Empresarial Simplific Corporate Solutions: sim sempre números novos disponíveis na base de linhas disponíveis como novas, (algo que o sistema quem define) não sou eu
+18/11/2025 17:18 - TI | ADVINTEGRA: que estranho
+18/11/2025 17:18 - TI | ADVINTEGRA: parece que é algo usado ja
+18/11/2025 17:18 - Tim Empresarial Simplific Corporate Solutions: na verdade não é estranho
+18/11/2025 17:18 - TI | ADVINTEGRA: sei la o que fazer entao
+18/11/2025 17:18 - Tim Empresarial Simplific Corporate Solutions: é algo absolutamente normal
+18/11/2025 17:19 - Tim Empresarial Simplific Corporate Solutions: ali o whatsapp libera em alguns dias
+18/11/2025 17:19 - TI | ADVINTEGRA: tenho que esperar 5 dias?
+18/11/2025 17:19 - Tim Empresarial Simplific Corporate Solutions: sem precisar de nada aguardando o prazo estipulado ali na ferramenta
+18/11/2025 17:19 - Tim Empresarial Simplific Corporate Solutions: normalmente está escrito ali na própria tela do app
+18/11/2025 17:19 - Tim Empresarial Simplific Corporate Solutions: por isso falei pra ir clicando ali em esqueceu o pin ou nos 3 risquinhos
+24/11/2025 11:20 - TI | ADVINTEGRA: bom dia Guilherme
+24/11/2025 11:20 - TI | ADVINTEGRA: Tudo bem?
+24/11/2025 11:20 - TI | ADVINTEGRA: Fui eu que solicitei pro linniker solicitar a voce um numero novo porque o ultimo deu problema novamente.
+24/11/2025 11:20 - TI | ADVINTEGRA: Eu tentei ja ia chat, e novamente obtive o mesmo retorno, que nao podem fazer
+24/11/2025 11:21 - TI | ADVINTEGRA: Da ultima vez que deu isso voce conseguiu um numero novo
+24/11/2025 11:21 - TI | ADVINTEGRA: por isso pedi pra ele te chamar, achei que poderia nos ajudar novamente.
+24/11/2025 11:23 - Tim Empresarial Simplific Corporate Solutions: bom dia tudo bem sim e com você?
+24/11/2025 11:36 - TI | ADVINTEGRA: tudo certo
+24/11/2025 11:56 - TI | ADVINTEGRA: consegue dar um help ai?
+24/11/2025 15:10 - Tim Empresarial Simplific Corporate Solutions: que bom
+24/11/2025 15:10 - Tim Empresarial Simplific Corporate Solutions: vamos lá
+24/11/2025 15:10 - Tim Empresarial Simplific Corporate Solutions: vc tentou isso hoje novamente ?
+24/11/2025 15:10 - Tim Empresarial Simplific Corporate Solutions: troca de número ?
+24/11/2025 15:10 - Tim Empresarial Simplific Corporate Solutions: vc tem certeza que julga necessário realizar nova troca ?
+24/11/2025 15:10 - Tim Empresarial Simplific Corporate Solutions: pq em breve esta linha tera a liberação total
+24/11/2025 15:10 - TI | ADVINTEGRA: eu nao vejo saida mais
+24/11/2025 15:11 - Tim Empresarial Simplific Corporate Solutions: em vista não teve banimento
+24/11/2025 15:11 - TI | ADVINTEGRA: cada vez que libera o whatsapp, ele vai vincualar a restringe de novo
+24/11/2025 15:11 - TI | ADVINTEGRA: klkkk
+24/11/2025 15:11 - Tim Empresarial Simplific Corporate Solutions: sempre que o número é recem configurado e começa a mandar muitas mensagens isso pode ocorrer
+24/11/2025 15:11 - TI | ADVINTEGRA: de sexta pra hoje, a linha ficou liberada, eu foi vincular, ate conseguiu vincular
+24/11/2025 15:11 - Tim Empresarial Simplific Corporate Solutions: se ficar trocando pode ficar num loop sem fim
+24/11/2025 15:11 - TI | ADVINTEGRA: foi enviar a primeira mensagem, e foi bloqueado novamente
+24/11/2025 15:12 - Tim Empresarial Simplific Corporate Solutions: a solicitação de troca deve ser feita ali pelo timchat mesmo se assim vc desejar
+24/11/2025 15:12 - Tim Empresarial Simplific Corporate Solutions: se vc não conseguir me manda uns prints da tentativa
+24/11/2025 15:12 - Tim Empresarial Simplific Corporate Solutions: e o protocolo
+24/11/2025 15:12 - Tim Empresarial Simplific Corporate Solutions: que eu direciono para o suporte
+24/11/2025 15:12 - Tim Empresarial Simplific Corporate Solutions: não sou eu quem faço
+24/11/2025 15:12 - Tim Empresarial Simplific Corporate Solutions: é direcionado pra outra área
+24/11/2025 15:13 - TI | ADVINTEGRA: ta bem
+24/11/2025 15:13 - TI | ADVINTEGRA: vou tentar de novo daqui a pouco
+24/11/2025 15:15 - Tim Empresarial Simplific Corporate Solutions: blz
+27/11/2025 10:17 - TI | ADVINTEGRA: Bom dia Guilherme, tudo bem?
+27/11/2025 10:19 - TI | ADVINTEGRA: Guilherme, nesses b.o com o numero do nosso consultor, orientei ele a comprar um chip de outra operadora em uma farmácia mesmo, colocou credito e conseguiu usar
+27/11/2025 10:19 - TI | ADVINTEGRA: como fazemos pra migrar esse numero pro plano?
+27/11/2025 11:00 - Tim Empresarial Simplific Corporate Solutions: Oi bom dia tudo bem sim e vc ?
+27/11/2025 11:01 - Tim Empresarial Simplific Corporate Solutions: pode me confirmar qual é o número?
+27/11/2025 11:01 - Tim Empresarial Simplific Corporate Solutions: DDD+num: 
+Nome completo:
+CPF:
+Data Nascimento:
+27/11/2025 11:01 - Tim Empresarial Simplific Corporate Solutions: e os dados ali que usou pra fazer o cadastro
+27/11/2025 11:07 - TI | ADVINTEGRA: foi feito com pessoa fisica no caso o funcionario
+27/11/2025 11:08 - TI | ADVINTEGRA: isso interfere na hora de colocar no plano da adv? pra nao ficar nada vinculado a ele?
+27/11/2025 11:09 - Tim Empresarial Simplific Corporate Solutions: sim , preciso destes dados que foram usados pra configurar o chip prépago
+27/11/2025 11:09 - Tim Empresarial Simplific Corporate Solutions: é obrigatório esta configuração pra conseguir usar o chip
+27/11/2025 11:09 - Tim Empresarial Simplific Corporate Solutions: pra poder migra preciso dos dados do doador da linha que vai pro CNPJ
+12/01/2026 15:01 - Esta empresa agora usa um serviço seguro da Meta para gerenciar esta conversa. Toque para saber mais.
+12/01/2026 15:01 - TI | ADVINTEGRA: Boa tarde Guilherme, tudo bem mestre?
+12/01/2026 15:01 - As mensagens e ligações agora são protegidas com a criptografia de ponta a ponta. Somente as pessoas que fazem parte da conversa podem ler, ouvir e compartilhar esse conteúdo. Saiba mais
+12/01/2026 15:01 - Esta empresa agora usa um serviço seguro da Meta para gerenciar esta conversa. Toque para saber mais.
+12/01/2026 15:03 - TI | ADVINTEGRA: Guilherme, tem uma colaboradora nossa que relatou que não consegue fazer ligação com o numero dela, a chamada nem completa
+12/01/2026 15:04 - TI | ADVINTEGRA: Fiz um teste, tentei ligar do meu pra ela, e realmente, ela nem chega receber
+12/01/2026 15:04 - TI | ADVINTEGRA: Perguntei pra ela sobre area, falou que tem, está certinho
+12/01/2026 15:04 - TI | ADVINTEGRA: Esse é o número +55 86 8186-3765
+12/01/2026 15:04 - TI | ADVINTEGRA: Poderia me ajudar em algo?
+12/01/2026 15:06 - TI | ADVINTEGRA: Quando tenta fazer chamada, tem o retorno de: 'Sua ligação foi encaminhada ao correio de voz'
+12/01/2026 15:47 - Tim Empresarial Simplific Corporate Solutions: boa tarde tudo bem sim e vc ?
+12/01/2026 15:47 - TI | ADVINTEGRA: Tudo jóia
+12/01/2026 15:47 - Tim Empresarial Simplific Corporate Solutions: sim sim
+12/01/2026 15:47 - Tim Empresarial Simplific Corporate Solutions: pede pra ela remover o chip e iserir novamente
+12/01/2026 15:52 - TI | ADVINTEGRA: fez, e deu a mesma coisa
+12/01/2026 15:52 - TI | ADVINTEGRA: nao recebe e nao faz ligaçao
+12/01/2026 15:52 - TI | ADVINTEGRA: pera, agora acho que deu certo
+12/01/2026 15:55 - TI | ADVINTEGRA: deu boa
+12/01/2026 15:55 - TI | ADVINTEGRA: obrigado
+12/01/2026 15:55 - TI | ADVINTEGRA: eu achei que ela ja tinha tentando isso, porque eu ja havia mencionado pra fazer isso kkk
+12/01/2026 16:28 - Tim Empresarial Simplific Corporate Solutions: ótimo !!
+12/01/2026 16:28 - Tim Empresarial Simplific Corporate Solutions: que bom que deu certo !!
+12/01/2026 16:28 - Tim Empresarial Simplific Corporate Solutions: geralmente isso resolve , pq quando remove o chip e insere
+12/01/2026 16:28 - Tim Empresarial Simplific Corporate Solutions: normalmente recebe uma atualização automática via MMS
+12/01/2026 16:28 - Tim Empresarial Simplific Corporate Solutions: e quase sempre resolve este tipo de problema
+12/01/2026 16:28 - Tim Empresarial Simplific Corporate Solutions: em caso de vc ficar na dúvida se pessoa fez ou não
+12/01/2026 16:28 - Tim Empresarial Simplific Corporate Solutions: peça foto do chip
+12/01/2026 16:29 - Tim Empresarial Simplific Corporate Solutions: assim a pessoa é obrigada a tirar o chip do aparelho pra tirar a foto
+12/01/2026 16:29 - Tim Empresarial Simplific Corporate Solutions: geralmente dá certo
+12/01/2026 16:43 - TI | ADVINTEGRA: kkkk boa
+12/01/2026 16:43 - TI | ADVINTEGRA: ótima desculpa
+12/01/2026 16:43 - TI | ADVINTEGRA: mas muito obrigado
+12/01/2026 16:48 - Tim Empresarial Simplific Corporate Solutions: por nada
+12/01/2026 16:48 - Tim Empresarial Simplific Corporate Solutions: precisando me avisa
+12/01/2026 16:57 - TI | ADVINTEGRA: 👍👍
+20/01/2026 08:19 - TI | ADVINTEGRA: Bom dia Guilherme, tudo certo ?
+20/01/2026 14:41 - Tim Empresarial Simplific Corporate Solutions: boa tarde tudo bem sim e vc ??
+12/02/2026 18:02 - Tim Empresarial Simplific Corporate Solutions: Oi boa tarde tudo bem?
+13/02/2026 08:10 - TI | ADVINTEGRA: Bom dia
+21/05/2026 10:54 - TI | ADVINTEGRA: Bom dia Guilherme
+21/05/2026 10:54 - TI | ADVINTEGRA: Tudo joia?
+21/05/2026 10:54 - TI | ADVINTEGRA: Mestre, me diga uma coisa
+21/05/2026 10:54 - TI | ADVINTEGRA: Onde eu consigo consultar se um numero ainda tem dados moveis pra usar?
+21/05/2026 10:55 - TI | ADVINTEGRA: Estou com uma colaboradora em viagem, e a internetdela nao está fucnionando
+21/05/2026 10:56 - TI | ADVINTEGRA: Nao estou conseguindo entrar com essas credenciais
+21/05/2026 10:58 - TI | ADVINTEGRA: da código cliente invalido
+21/05/2026 20:16 - Tim Empresarial Simplific Corporate Solutions: opa blz tudo sim e vc ??
+21/05/2026 20:16 - Tim Empresarial Simplific Corporate Solutions: referente a qual linha?
+21/05/2026 20:17 - Tim Empresarial Simplific Corporate Solutions: envia um sms pra 4141 escrito web da linha por sms
+31/07/2026 11:09 - TI | ADVINTEGRA: Bom dia Guilherme, tudo certo?
+31/07/2026 11:09 - Tim Empresarial Simplific Corporate Solutions: Bem vindo ao canal  *Enterprise Business TIM*
+
+Obrigado por seu contato!
+
+Você precisa de linhas *novas* ou portabilidade?
+
+*Qual seu CNPJ?*
+31/07/2026 11:10 - Tim Empresarial Simplific Corporate Solutions: opa
+31/07/2026 11:10 - Tim Empresarial Simplific Corporate Solutions: bom dia
+31/07/2026 11:10 - Tim Empresarial Simplific Corporate Solutions: tudo certo graças a Deus e por ai ?
+31/07/2026 11:11 - TI | ADVINTEGRA: Que bom! Tudo susse também!
+31/07/2026 11:12 - TI | ADVINTEGRA: Queria fazer a portabilidade de um número, é contigo mesmo?
+31/07/2026 11:13 - TI | ADVINTEGRA: 86 9999-0191
+31/07/2026 11:13 - TI | ADVINTEGRA: desse número que te mandei
+31/07/2026 11:24 - Tim Empresarial Simplific Corporate Solutions: sim é comigo mesmo
+31/07/2026 11:24 - Tim Empresarial Simplific Corporate Solutions: a linha a ser portada está ativa, certo?
+31/07/2026 11:25 - Tim Empresarial Simplific Corporate Solutions: vc tem acesso ao chip?
+31/07/2026 11:25 - TI | ADVINTEGRA: Show! Esta sim e tenho acesso
+31/07/2026 11:25 - Tim Empresarial Simplific Corporate Solutions: Eu vi que a linha ja está no seu CNPJ
+31/07/2026 11:26 - Tim Empresarial Simplific Corporate Solutions: 86999990191 - Ativação: 10/10/2025
+31/07/2026 11:26 - TI | ADVINTEGRA: Positivo
+31/07/2026 11:26 - Tim Empresarial Simplific Corporate Solutions: pra onde vc quer portar?
+31/07/2026 11:27 - TI | ADVINTEGRA: Queria manter com esse mesmo DDD mas gostaria de um numero novo dai
+31/07/2026 11:27 - TI | ADVINTEGRA: é possivel?
+31/07/2026 11:27 - Tim Empresarial Simplific Corporate Solutions: vc quer trocar o número mantendo o mesmo CHIP?
+31/07/2026 11:27 - TI | ADVINTEGRA: Isso mesmo
+31/07/2026 11:27 - Tim Empresarial Simplific Corporate Solutions: da pra fazer isso sim
+31/07/2026 11:28 - Tim Empresarial Simplific Corporate Solutions: só que depois que feito não tem mais volta
+31/07/2026 11:28 - TI | ADVINTEGRA: Ok, sem problemas
+31/07/2026 11:45 - Tim Empresarial Simplific Corporate Solutions: ok entendido, vou solicitar
+31/07/2026 11:47 - TI | ADVINTEGRA: Ok obrigado!
+03/08/2026 10:52 - TI | ADVINTEGRA: Opa bom dia!
+Alguma atualização?
+03/08/2026 12:18 - Tim Empresarial Simplific Corporate Solutions: Oi bom dia tudo bem?? Vou cobrar o setor responsável
+03/08/2026 13:29 - TI | ADVINTEGRA: Beleza, obrigado!
+05/08/2026 17:18 - Tim Empresarial Simplific Corporate Solutions: *ADVINTEGRA SOLUCOES TRIBUTARIAS LTDA ME , 31778361000197* 
+
+Realizamos a troca do número mencionado com sucesso a se concluir em até 24 horas como segue:
+
+De:          Para:
+
+86999990191 >> 86998570361
+
+Sucesso !!
+
+Estamos à disposição.
+Atendimento prime Enterprise
+
+*O número do seu protocolo é: 2026516491794.*
+05/08/2026 17:18 - Tim Empresarial Simplific Corporate Solutions: boa tarde tudo bem??
+05/08/2026 17:18 - Tim Empresarial Simplific Corporate Solutions: troca realizada
+05/08/2026 17:18 - Tim Empresarial Simplific Corporate Solutions: conforme solicitado
+05/08/2026 17:25 - TI | ADVINTEGRA: Boa tarde Guilherme!
+Perfeito muito obrigado pela atenção!!
+05/08/2026 18:13 - Tim Empresarial Simplific Corporate Solutions: por nada
+17/08/2026 09:41 - TI | ADVINTEGRA: Bom dia, tudo bem ?
+17/08/2026 09:41 - TI | ADVINTEGRA: Precisamos incluir um número no plano é possível ?
+17/08/2026 09:48 - Tim Empresarial Simplific Corporate Solutions: oi bom dia tudo bem sim e vc ?
+17/08/2026 09:48 - Tim Empresarial Simplific Corporate Solutions: sim podemos sim incluir novos números
+17/08/2026 09:48 - Tim Empresarial Simplific Corporate Solutions: qual o DDD que será a linha nova ?
+17/08/2026 09:49 - TI | ADVINTEGRA: Tudo bem também
+17/08/2026 09:50 - TI | ADVINTEGRA: Seria nesse número:
+55 47 9675-9789
+17/08/2026 09:52 - Tim Empresarial Simplific Corporate Solutions: a linha está ativa ? vc tem acesso ao chip?
+17/08/2026 09:53 - TI | ADVINTEGRA: Sim esse número está ativo
+17/08/2026 10:18 - Tim Empresarial Simplific Corporate Solutions: blz , vc tem acesso ao chip ?
+17/08/2026 10:25 - TI | ADVINTEGRA: Sim tenho, ele já esta sendo usado
+17/08/2026 10:25 - TI | ADVINTEGRA: Mas está fora do plano
+17/08/2026 10:25 - TI | ADVINTEGRA: A consultora que está utilizando ele não consegue realizar ligações
+17/08/2026 10:26 - Tim Empresarial Simplific Corporate Solutions: pelo o que verifiquei a linha não está vinculada a nenhum CNPJ
+17/08/2026 10:26 - Tim Empresarial Simplific Corporate Solutions: eu precisaria saber em qual cpf a linha está vinculada
+17/08/2026 10:27 - Tim Empresarial Simplific Corporate Solutions: acessando o app meutim pelo celular daria pra ver os dados em dados cadastrais
+17/08/2026 10:27 - Tim Empresarial Simplific Corporate Solutions: vc pode pedir pra ela acessar via app meutim?
+17/08/2026 10:27 - TI | ADVINTEGRA: Posso fazer sim
+17/08/2026 10:27 - TI | ADVINTEGRA: Já te retorno
+17/08/2026 10:53 - TI | ADVINTEGRA: Não to conseguindo ver, fica dando erro de sistema indisponível no momento
+17/08/2026 10:58 - Tim Empresarial Simplific Corporate Solutions: como vc esta fazendo?
+17/08/2026 11:03 - TI | ADVINTEGRA: Pelo App, ai entro pelo modo de esqueci a senha
+17/08/2026 11:04 - TI | ADVINTEGRA: Sem o Wi-fi no caso
+17/08/2026 11:07 - Tim Empresarial Simplific Corporate Solutions: ai vc recebe o sms?
+17/08/2026 11:09 - TI | ADVINTEGRA: Falei errado, estou tentando entrar no "Sem senha" ?
+17/08/2026 11:10 - TI | ADVINTEGRA: Ai ele pede para desligar o wifi, dai ele encontra a linha mas quando clico em entrar ele da esse erro
+17/08/2026 11:39 - Tim Empresarial Simplific Corporate Solutions: vc esta com o celular em maos?
+17/08/2026 11:39 - Tim Empresarial Simplific Corporate Solutions: baixa o app
+17/08/2026 11:39 - Tim Empresarial Simplific Corporate Solutions: e coloca que não sabe a senha
+17/08/2026 11:40 - Tim Empresarial Simplific Corporate Solutions: ai vai receber por sms a senha
+17/08/2026 11:40 - Tim Empresarial Simplific Corporate Solutions: ai entra com o numero e a senha
+17/08/2026 13:32 - TI | ADVINTEGRA: ‎IMG-20260817-WA0020.jpg (arquivo anexado)
+17/08/2026 13:32 - TI | ADVINTEGRA: Também não vai
+17/08/2026 14:18 - Tim Empresarial Simplific Corporate Solutions: ta faltando um digito ali no print
+17/08/2026 14:18 - Tim Empresarial Simplific Corporate Solutions: falta o número 9
+17/08/2026 14:18 - Tim Empresarial Simplific Corporate Solutions: no caso precisa ser 47 9 9675 9789
+17/08/2026 14:19 - Tim Empresarial Simplific Corporate Solutions: o chip não consegue efetuar e receber chamadas a quanto tempo?
+17/08/2026 14:19 - Tim Empresarial Simplific Corporate Solutions: ja tentou fazer uma recarga?
+17/08/2026 14:19 - Tim Empresarial Simplific Corporate Solutions: pq se ficar mais de 60 dias sem recarga a linha poderá ser cancelada
+17/08/2026 14:20 - TI | ADVINTEGRA: Mesmo com o 9 na frente ocorre o mesmo erro
+17/08/2026 14:20 - TI | ADVINTEGRA: E quando ligo de outro número para esse número ele recebe chamada
+17/08/2026 14:21 - TI | ADVINTEGRA: SMS do WhatsApp ele também recebeu
+17/08/2026 19:03 - Tim Empresarial Simplific Corporate Solutions: oi boa noite tudo bem?
+17/08/2026 19:03 - Tim Empresarial Simplific Corporate Solutions: tenta novamente por gentileza
+17/08/2026 19:03 - Tim Empresarial Simplific Corporate Solutions: verifica se agora da certo
+17/08/2026 19:03 - Tim Empresarial Simplific Corporate Solutions: a linha é pre paga?
+18/08/2026 08:08 - TI | ADVINTEGRA: Oii bom dia, tudo sim e vc?
+18/08/2026 08:08 - TI | ADVINTEGRA: Ainda não funciona
+18/08/2026 08:08 - TI | ADVINTEGRA: Não vou lembrar, mas acredito q sim
+18/08/2026 10:09 - Tim Empresarial Simplific Corporate Solutions: Oi bom dia tudo bem
+18/08/2026 10:10 - Tim Empresarial Simplific Corporate Solutions: Se a linha for pre paga não tem fatura
+18/08/2026 10:10 - Tim Empresarial Simplific Corporate Solutions: Tenta fazer uma recarga
+18/08/2026 12:22 - Tim Empresarial Simplific Corporate Solutions: deu certo a recarga?
+18/08/2026 14:11 - TI | ADVINTEGRA: Solicitei ao nosso financeiro para fazer
+18/08/2026 14:11 - TI | ADVINTEGRA: Estamos no aguardo
+18/08/2026 14:11 - TI | ADVINTEGRA: Assim que for realizada te aviso
+18/08/2026 14:49 - Tim Empresarial Simplific Corporate Solutions: blz
+19/08/2026 08:01 - TI | ADVINTEGRA: Bom dia
+19/08/2026 08:01 - TI | ADVINTEGRA: Tudo bem? Ontem final do dia foi realizado a recarga
+19/08/2026 09:44 - Tim Empresarial Simplific Corporate Solutions: oi bom dia tudo bem?
+19/08/2026 09:44 - Tim Empresarial Simplific Corporate Solutions: o chip agora consegue realizar ligações ?
+19/08/2026 09:45 - Tim Empresarial Simplific Corporate Solutions: vc ja fez um teste de ligações pra outros pra ver se da certo?
+19/08/2026 09:45 - Tim Empresarial Simplific Corporate Solutions: apos fazer isso , verifica se consegue logar ali no meutim com o número
+19/08/2026 09:45 - Tim Empresarial Simplific Corporate Solutions: pelo app ou via computador no site
+19/08/2026 10:55 - TI | ADVINTEGRA: Vou fazer esses testes
+19/08/2026 11:34 - Tim Empresarial Simplific Corporate Solutions: okk
+26/08/2026 16:40 - TI | ADVINTEGRA: Boa tarde
+26/08/2026 16:40 - TI | ADVINTEGRA: Tudo bem?
+26/08/2026 16:40 - TI | ADVINTEGRA: Estou tentando acessar o painel meu tim, mas nao consigo
+26/08/2026 16:40 - TI | ADVINTEGRA: sabe informar qual o nosso codigo do cliente? pra tentar renovar a senha?
+26/08/2026 16:41 - Tim Empresarial Simplific Corporate Solutions: boa tarde tudo bem??
+26/08/2026 16:41 - Tim Empresarial Simplific Corporate Solutions: ADVINTEGRA SOLUCOES TRIBUTARIAS LTDA ME          31778361000197    7.1726339     
+Login  140061988
+Senha 3105
+26/08/2026 16:42 - TI | ADVINTEGRA: deixa eu ver se voce pode nos ajudar
+26/08/2026 16:42 - TI | ADVINTEGRA: tem um numero, que toda vez que ela sai fazer atendimento externo, ela fica sem internet
+26/08/2026 16:42 - TI | ADVINTEGRA: só funciona na wifi
+26/08/2026 16:42 - Tim Empresarial Simplific Corporate Solutions: qual numero?
+26/08/2026 16:43 - TI | ADVINTEGRA: +55 47 9934-8882
+26/08/2026 16:43 - Tim Empresarial Simplific Corporate Solutions: DDD+num:
+26/08/2026 16:43 - Tim Empresarial Simplific Corporate Solutions: vc pode pedir ao usuario enviar um sms pra 4141 escrito web ?
+26/08/2026 16:43 - Tim Empresarial Simplific Corporate Solutions: e depois que tiver o retorno me enviar um print por gentileza?
+26/08/2026 16:43 - TI | ADVINTEGRA: eu faço, to como celular aqui em maos
+26/08/2026 16:43 - Tim Empresarial Simplific Corporate Solutions: blz
+26/08/2026 16:43 - Tim Empresarial Simplific Corporate Solutions: o uso de dados esta ativo?
+26/08/2026 16:43 - TI | ADVINTEGRA: sim
+26/08/2026 16:44 - TI | ADVINTEGRA: wifi inativo,
+dados ativo
+26/08/2026 16:44 - TI | ADVINTEGRA: retorno: foram consumidos 0,00mb de 6,00gb
+26/08/2026 16:44 - TI | ADVINTEGRA: e 223mb de 1gb, acredito que seja um bonus
+26/08/2026 16:45 - Tim Empresarial Simplific Corporate Solutions: remove o chip e insere novamente
+26/08/2026 16:45 - TI | ADVINTEGRA: nao consegui logar com essa senha
+26/08/2026 16:45 - Tim Empresarial Simplific Corporate Solutions: parece que naõ consumiiu nada dos dados
+26/08/2026 16:45 - Tim Empresarial Simplific Corporate Solutions: nem usou o pacote no caso
+26/08/2026 16:45 - TI | ADVINTEGRA: nem chegou usar
+26/08/2026 16:45 - TI | ADVINTEGRA: da ultima vez, eu tirei o chip e troquei de slot, e funcionou, mas da uns dias e para de novo
+26/08/2026 16:45 - Tim Empresarial Simplific Corporate Solutions: parece que é um bloqueio causado dentro do equipamento
+26/08/2026 16:45 - Tim Empresarial Simplific Corporate Solutions: pq no sistema o chip esta com uso de dados normal
+26/08/2026 16:46 - Tim Empresarial Simplific Corporate Solutions: faz um teste em outro aparelho só pra ver se funciona
+26/08/2026 16:46 - TI | ADVINTEGRA: tirei o chip e funcinou
+26/08/2026 16:47 - TI | ADVINTEGRA: queria ver no painel se tem alguma inconsistencia
+26/08/2026 16:47 - TI | ADVINTEGRA: é essa senha mesmo? 
+Login  140061988
+Senha 3105
+26/08/2026 16:47 - TI | ADVINTEGRA: agora bloqueou por 20 min
+26/08/2026 16:54 - Tim Empresarial Simplific Corporate Solutions: Cod de cliente 7.1726339
+26/08/2026 16:54 - Tim Empresarial Simplific Corporate Solutions: Provavelmente a senha foi alterada
+26/08/2026 16:54 - Tim Empresarial Simplific Corporate Solutions: Esta era a última que eu tinha
+26/08/2026 16:55 - Tim Empresarial Simplific Corporate Solutions: Se alteram eu não consigo ver aqui
+26/08/2026 16:55 - Tim Empresarial Simplific Corporate Solutions: Mas se precisar da pra gerar uma nova
+21/09/2026 08:58 - TI | ADVINTEGRA: Bom dia, tudo bem?
+21/09/2026 08:58 - Tim Empresarial Simplific Corporate Solutions: Bem vindo ao canal  *Enterprise Business TIM*
+
+Obrigado por seu contato!
+
+Você precisa de linhas *novas* ou portabilidade?
+
+*Qual seu CNPJ?*
+21/09/2026 08:59 - TI | ADVINTEGRA: 31778361000197
+21/09/2026 11:16 - TI | ADVINTEGRA: Olá, tudo bem?
+21/09/2026 11:28 - Tim Empresarial Simplific Corporate Solutions: Opa
+21/09/2026 11:28 - Tim Empresarial Simplific Corporate Solutions: Bom dia tudo bem sim e com vc?
+21/09/2026 11:28 - Tim Empresarial Simplific Corporate Solutions: Posso ajudar?
+21/09/2026 11:31 - TI | ADVINTEGRA: Tudo bem também
+21/09/2026 11:32 - TI | ADVINTEGRA: Consegue me dizer se o seguinte número está em nosso plano ?
+47 9675-9789
+21/09/2026 11:46 - Tim Empresarial Simplific Corporate Solutions: vou verificar
+21/09/2026 11:48 - Tim Empresarial Simplific Corporate Solutions: não pertence ao plano corporativo TIM (CNPJ)
+21/09/2026 11:48 - Tim Empresarial Simplific Corporate Solutions: por qual motivo?
+21/09/2026 11:49 - TI | ADVINTEGRA: Esse número precisa ser incluído no plano corporativo
+21/09/2026 11:52 - Tim Empresarial Simplific Corporate Solutions: ok
+21/09/2026 11:52 - Tim Empresarial Simplific Corporate Solutions: vc tem acesso ao chip?
+21/09/2026 11:52 - Tim Empresarial Simplific Corporate Solutions: a linha está ativa, certo?
+21/09/2026 11:55 - TI | ADVINTEGRA: Sim o chip está em uso por uma consultora nossa
+21/09/2026 11:56 - Tim Empresarial Simplific Corporate Solutions: Blz, a linha está ativa, certo?
+
+Vc consegue ver em nome de quem está cadastrada a linha?
+
+ou pedir pra ela fazer isso
+21/09/2026 11:57 - Tim Empresarial Simplific Corporate Solutions: é só baixar o app meu tim, fazer o login ali com o proprio numero , após logar, vai em dados cadastrais, e tira um print ali dos dados cadastrados , vai ser necessário
+21/09/2026 11:57 - Tim Empresarial Simplific Corporate Solutions: ai pode me enviar aqui mesmo ou preencher abaixo >> 
+
+
+DDD+num: 
+Nome completo :
+CPF :
+Data Nascimento:
+21/09/2026 11:59 - Tim Empresarial Simplific Corporate Solutions: Enquanto isso vamos seguindo com os tramites internos da inclusão da linha, vai no mesmo pacote das demais linhas ? 
+
+Que seria este pacote economico de 6gb por R$29,99  
+
+Ou então, precisa de mais dados ? exemplo >  20gb por R$50,99
+21/09/2026 13:48 - TI | ADVINTEGRA: Tentei entrar no modo de esqueceu a senha
+21/09/2026 13:48 - TI | ADVINTEGRA: Porem o sistema da erro falando para tentar novamente depois
+21/09/2026 13:48 - TI | ADVINTEGRA: Isso aconteceu varias vezes
+21/09/2026 13:56 - Tim Empresarial Simplific Corporate Solutions: quem comprou / usa o chip pré pago?
+21/09/2026 13:56 - Tim Empresarial Simplific Corporate Solutions: normalmente está no nome de quem está usando
+21/09/2026 13:57 - Tim Empresarial Simplific Corporate Solutions: coloca nestes dados assim eu verifico se é isso mesmo , ou seja, se esta correto
+22/09/2026 16:09 - TI | ADVINTEGRA: Boa tarde Tudo bem}?
+22/09/2026 16:09 - TI | ADVINTEGRA: Mestre, nao sei se é com voce
+22/09/2026 16:09 - TI | ADVINTEGRA: Mas eu precisava de uma lista com todos os numeros que temos ativos, e qual seria o valor de cada numero dentro do plano, tem como?
+22/09/2026 16:10 - Tim Empresarial Simplific Corporate Solutions: Opa boa tarde tudo bem sim e vc?
+22/09/2026 16:19 - TI | ADVINTEGRA: Tudo bem sim
+22/09/2026 16:33 - TI | ADVINTEGRA: Sera que conseguimos essa informação?
+23/09/2026 08:07 - TI | ADVINTEGRA: Bom dia.
+23/09/2026 09:11 - TI | ADVINTEGRA: Consegue me ajudar? Preciso fazer um levantamento pra ver se nao estamos pagando por algum numero que nao está em uso
+23/09/2026 09:15 - Tim Empresarial Simplific Corporate Solutions: oi bom dia tudo bem?
+23/09/2026 09:16 - Tim Empresarial Simplific Corporate Solutions: vou verificar
+23/09/2026 09:16 - TI | ADVINTEGRA: Ok obrigado
+23/09/2026 09:16 - TI | ADVINTEGRA: Fico no aguardo
+23/09/2026 09:24 - Tim Empresarial Simplific Corporate Solutions: ‎linhas advintegra.xlsx (arquivo anexado)
+linhas advintegra.xlsx
+23/09/2026 09:24 - Tim Empresarial Simplific Corporate Solutions: segue relação de linhas ativas
+23/09/2026 10:05 - TI | ADVINTEGRA: Viu, mas eu preciso de todas, se tiver inativa tbm
+23/09/2026 10:06 - TI | ADVINTEGRA: e outra, conforme comentei, teria como colocar o valor que é pago por numero fechando o valor que pagamos mensal?
+23/09/2026 10:09 - TI | ADVINTEGRA: atualmente nosso plano está pagando 2399,24
+23/09/2026 10:10 - TI | ADVINTEGRA: preciso entender como chegar nesse valor, por isso precisava saber quanto cada linha está cobrando, pra ver se no total está batendo o vaor
+23/09/2026 10:47 - Tim Empresarial Simplific Corporate Solutions: ali estão todas as linhas incluidas no plano
+23/09/2026 10:48 - Tim Empresarial Simplific Corporate Solutions: vou verificar o valor linha por linha pra te enviar
+23/09/2026 11:52 - TI | ADVINTEGRA: Ok, se puder se colocar uma coluna a mais na planilha anterior com o valor, seguindo essa mesma ordem que me passou, ate porque ja verifiquei linha por linha agora, se me mandar na mesma ordem vai facilitar meu trabalho, se nao tenho que levantar tudo novamente rsr
+23/09/2026 11:53 - TI | ADVINTEGRA: Nesse plano Tim Black Empresa III, o que tudo contempla?
+23/09/2026 17:30 - Tim Empresarial Simplific Corporate Solutions: boa taarde tudo bem ??
+
+o Tim Black Empresa contempla ligações ilimitadas + apps ilimitados (inclusos) na fatura ali aparece quais são os serviços integrados + dados móveis por linha , mas tudo isso na fatura vai aparecer detalhadamente
+23/09/2026 17:31 - Tim Empresarial Simplific Corporate Solutions: mas vou organizar pra vc saber quanto custa pra cada linha eu ainda nao terminei a planilha assim que eu finalizar ja te passo certinho
+23/09/2026 17:50 - TI | ADVINTEGRA: top
+23/09/2026 17:50 - TI | ADVINTEGRA: muito obrigado
+23/09/2026 17:50 - TI | ADVINTEGRA: fico no aguardo
+23/09/2026 20:48 - Tim Empresarial Simplific Corporate Solutions: ‎advintegra linhas+valores.xlsx (arquivo anexado)
+advintegra linhas+valores.xlsx
+24/09/2026 08:52 - TI | ADVINTEGRA: Bom dia. Tudo bem?
+24/09/2026 08:53 - TI | ADVINTEGRA: Obrigado pelo retorno
+24/09/2026 08:53 - Tim Empresarial Simplific Corporate Solutions: Oi bom dia tudo bem sim e com vc?
+24/09/2026 08:53 - Tim Empresarial Simplific Corporate Solutions: Por nada
+24/09/2026 08:53 - Tim Empresarial Simplific Corporate Solutions: Desculpa a demora
+24/09/2026 08:53 - TI | ADVINTEGRA: Me tira uma duvida, qual a diferença de uma plano Tim Black empresa III que pago 29,99, para outro mesmo tim black empresa III que eu pago R$ 56, R$ 52
+24/09/2026 08:54 - Tim Empresarial Simplific Corporate Solutions: Geralmente a diferença está no pacote de internet da linha
+24/09/2026 08:54 - Tim Empresarial Simplific Corporate Solutions: E isso que influencia no preço
+24/09/2026 08:54 - TI | ADVINTEGRA: ‎IMG-20260924-WA0003.jpg (arquivo anexado)
+24/09/2026 08:54 - TI | ADVINTEGRA: a maioria é 6gb
+24/09/2026 08:56 - TI | ADVINTEGRA: tem planos que é 1gb por 29,99, e tem planos de 6gb que é o mesmo valor
+24/09/2026 08:56 - TI | ADVINTEGRA: gostaria de entender melhor isso
+24/09/2026 08:57 - TI | ADVINTEGRA: sendo que 1gb ou 6gb, é o mesmo valor, porque existe essa diferença?
+24/09/2026 08:57 - TI | ADVINTEGRA: e tem 6gb que estou pagando a mais que isso
+24/09/2026 09:04 - TI | ADVINTEGRA: ‎IMG-20260924-WA0005.jpg (arquivo anexado)
+nao está fazendo sentido nenhum pra mim, 1gb pagando mais caro que o 6gb
+24/09/2026 09:04 - TI | ADVINTEGRA: poderia me explicar isso?
+24/09/2026 09:18 - TI | ADVINTEGRA: 🤨
+24/09/2026 09:21 - TI | ADVINTEGRA: O numero 999963162 nao funciona para receber ligação?
+24/09/2026 09:22 - TI | ADVINTEGRA: Já que ninguem me responde aqui?
+24/09/2026 09:23 - TI | ADVINTEGRA: ‎IMG-20260924-WA0006.jpg (arquivo anexado)
+24/09/2026 09:23 - TI | ADVINTEGRA: ‎IMG-20260924-WA0007.jpg (arquivo anexado)
+24/09/2026 09:37 - Tim Empresarial Simplific Corporate Solutions: Eu estive analisando vi que todas estas linhas de 1GB na verdade estão na seguinte oferta (1gb+5gb) = 6gb por R$29,99 
+
+Todos os meses as tabelas de linhas novas ou aditivas são atualizadas, ou seja, se vc contratar linhas em meses diferentes pode ser que as linhas saiam por valores diferentes de acordo com a tabela vigente, em vista que as tabelas tem validade geralmente mensal para realizar contratações.
+
+Por isso as linhas podem ter variações de preços.
+24/09/2026 09:38 - TI | ADVINTEGRA: eu pago 29,99 por uma linha de 6gb e pago 56 para uma linha igual?
+24/09/2026 09:38 - TI | ADVINTEGRA: onde ja se viu isso, o dobro do valor?
+24/09/2026 09:38 - TI | ADVINTEGRA: nao faz sentido algum pra mim
+24/09/2026 09:39 - Tim Empresarial Simplific Corporate Solutions: ali no relatório não está aparecendo os bônus que cada linha pode ou não ter
+24/09/2026 09:39 - TI | ADVINTEGRA: preciso saber das datas vigentes de contratação, estamos pagando a mais faz muito tempo
+24/09/2026 09:39 - TI | ADVINTEGRA: e agora vou resolver isso
+24/09/2026 09:39 - Tim Empresarial Simplific Corporate Solutions: mas de qualquer modo precisamos analisar linha por linha, e não de forma geral, pra conseguir entender a situação
+24/09/2026 09:40 - TI | ADVINTEGRA: qual a possibilidade de igualar as linhas, para 6gb, ambas com o mesmo valor?
+24/09/2026 09:40 - TI | ADVINTEGRA: outro ponto, analisei a tenho varias linhas inativas, como faço para solicitar o cancelamento?
+24/09/2026 09:40 - TI | ADVINTEGRA: se a gente for continuar pagando diferente por linhas do mesmo plano, vou levar para a diretoria para migrarmos nossos planos, nao faz sentido
+24/09/2026 09:49 - Tim Empresarial Simplific Corporate Solutions: Podemos igualar sim
+24/09/2026 09:50 - Tim Empresarial Simplific Corporate Solutions: Eu estou verificando o caso destas linhas citadas com valor maior, e vou abrir um protocolo interno  no setor responsável financeiro de contestação a respeito disto
+24/09/2026 09:59 - TI | ADVINTEGRA: Engraçado é que tem planos de 1gb, outros de 6gb
+24/09/2026 10:00 - TI | ADVINTEGRA: Se eu te mandar uma lista, com todos os numeros que eu quero alteração, voce faz?
+24/09/2026 10:00 - TI | ADVINTEGRA: Tem alguns ali que não precisa mexer, por isso eu posso gerar uma lista, do que eu quero que passe para 6gb no valor de 29,90, que é o valor do pacote
+24/09/2026 10:20 - Tim Empresarial Simplific Corporate Solutions: Pode me mandar sim uma lista ou planilha como vc quer fazer
+24/09/2026 10:23 - TI | ADVINTEGRA: Ok, vou montar aqui
+24/09/2026 10:24 - TI | ADVINTEGRA: Outra coisa, sobre isso aqui, tenho varias linhas ativas que nao tenho ninguem usando mais. Como faço pra solicitar o cancelamento também?
+24/09/2026 10:26 - Tim Empresarial Simplific Corporate Solutions: vc pode pedir aqui comigo ou via central no *144 ou 1056
+24/09/2026 10:28 - TI | ADVINTEGRA: ta, vamos por partes, primeiro vamos corrigir o pacote dos planos e valores, assim que voce realizar essa alteração, faço a solicitação do cancelamento dos numeros
+24/09/2026 10:29 - TI | ADVINTEGRA: ‎Correção planos e valores tim.xlsx (arquivo anexado)
+Correção planos e valores tim.xlsx
+24/09/2026 10:29 - TI | ADVINTEGRA: para que passamos pagar equivalente por todos os numeros dentro de um mesmo plano
+24/09/2026 10:34 - TI | ADVINTEGRA: é possível entao?
+24/09/2026 10:37 - TI | ADVINTEGRA: Após isso, voce consegue mandar uma lista atualizada com os numeros do nosso plano + valor? Preciso ver o quanto isso vai reduzir mensalmente
+24/09/2026 10:41 - Tim Empresarial Simplific Corporate Solutions: vou analisar
+24/09/2026 10:58 - TI | ADVINTEGRA: Ok, no aguardo
+28/09/2026 14:16 - TI | ADVINTEGRA: Boa tarde. TUdo bem?
+28/09/2026 14:17 - Tim Empresarial Simplific Corporate Solutions: boa tarde tudo bem sim e vc ?
+28/09/2026 14:39 - TI | ADVINTEGRA: Tudo joia.
+28/09/2026 14:40 - TI | ADVINTEGRA: Sobre o que conversamos na sexta, algum parecer?
+28/09/2026 15:02 - Tim Empresarial Simplific Corporate Solutions: ja cobrei a área responsável qualquer novidade ja lhe mantenho informado
+28/09/2026 16:16 - TI | ADVINTEGRA: Tem uma linha que eu gostaria do eSim
+28/09/2026 16:16 - TI | ADVINTEGRA: Atualmente é um chip fisico
+28/09/2026 16:16 - TI | ADVINTEGRA: Qual a possibilidade?
+28/09/2026 16:17 - Tim Empresarial Simplific Corporate Solutions: qual linha?
+28/09/2026 16:17 - Tim Empresarial Simplific Corporate Solutions: o eSIM será utilizado em qual aparelho? (Marca e modelo)
+28/09/2026 16:18 - TI | ADVINTEGRA: iphone 14 se nao me engano
+28/09/2026 16:19 - TI | ADVINTEGRA: logo te confirmo a linha
+28/09/2026 16:21 - Tim Empresarial Simplific Corporate Solutions: Blz
+02/10/2026 09:01 - TI | ADVINTEGRA: Bom dia. Tudobem?
+02/10/2026 09:02 - TI | ADVINTEGRA: Conseguiu realizar as correções de valores?
+02/10/2026 09:02 - TI | ADVINTEGRA: Preciso dar continuidade com a baixa de algumas linhas <Mensagem editada>
+02/10/2026 10:44 - Tim Empresarial Simplific Corporate Solutions: Opa bom dia tudo bem sim e vc?? 
+
+Eu abri chamado no setor responsável contestando as cobranças e solicitando a correção de valores.
+
+Vou cobrar retorno da área
+02/10/2026 10:46 - TI | ADVINTEGRA: Daqui a pouco vira mais uma fatura, e continuamos pagando esses valores incoerentes
+02/10/2026 10:46 - TI | ADVINTEGRA: Se nao der certo, vamos fazer portabilidade pra outra empresa
+02/10/2026 10:47 - TI | ADVINTEGRA: Nao gostaria de fazer isso
+02/10/2026 10:52 - Tim Empresarial Simplific Corporate Solutions: Como é um ajuste em lote para reduzir o custo da fatura de vocês, o processo é um pouco mais burocrático, mas estou em cima da área responsável.
+
+Mas para não ficarmos parados esperando, vamos já resolver a linha do iPhone 14? Pode me confirmar o número dela? Assim já faço a migração para o eSIM e adianto essa parte para você.
+
+Muito obrigado pela paciência, estou cuidando para que a conta de vocês fique perfeitamente ajustada.
+05/10/2026 10:32 - TI | ADVINTEGRA: Bom dia. Tudo bem?
+05/10/2026 10:32 - TI | ADVINTEGRA: Alguma novidade?
+05/10/2026 10:32 - TI | ADVINTEGRA: Sobra a linha do eSIm vou confirmar aqui primeiro.
+05/10/2026 11:07 - Tim Empresarial Simplific Corporate Solutions: bom dia tudo bem sim e vc ??
+05/10/2026 11:07 - Tim Empresarial Simplific Corporate Solutions: ja cobrei a area responsável
+05/10/2026 11:07 - Tim Empresarial Simplific Corporate Solutions: ok sem problemas
+07/10/2026 10:08 - TI | ADVINTEGRA: Bom dia, tudo bem?
+07/10/2026 10:09 - TI | ADVINTEGRA: Algum retorno? Vai ficar mais uma fatura e nao tivemos retorno
+07/10/2026 10:10 - TI | ADVINTEGRA: Caso contrario gostaria de entender qual é o procedimento para cancelar o contrato
+07/10/2026 10:10 - TI | ADVINTEGRA: Estou vendo pra fazer portabilidade
+07/10/2026 10:22 - TI | ADVINTEGRA: A linha que precisamos fazer virar um eSim é essa 47997340492
+07/10/2026 10:22 - TI | ADVINTEGRA: qual o procedimento pra fazer isso?
+07/10/2026 10:30 - Tim Empresarial Simplific Corporate Solutions: opa bom dia meu amigo tudo bem sim e com você ??
+07/10/2026 10:30 - Tim Empresarial Simplific Corporate Solutions: vou verificar com a área responsável
+07/10/2026 10:35 - Tim Empresarial Simplific Corporate Solutions: ja coloquei o coordenador da área (gerente) em ciencia do assunto e pedi prioridade no assunto
+07/10/2026 10:36 - Tim Empresarial Simplific Corporate Solutions: em qual aparelho será feito o processo ?
+07/10/2026 10:36 - Tim Empresarial Simplific Corporate Solutions: sabe marca e modelo do equipamento ?
+07/10/2026 10:36 - Tim Empresarial Simplific Corporate Solutions: pq dependendo do equipamento pode ser diferente...
+07/10/2026 10:40 - TI | ADVINTEGRA: Iphone 14 Pro max
+07/10/2026 10:40 - Tim Empresarial Simplific Corporate Solutions: aceita chip?
+07/10/2026 10:40 - Tim Empresarial Simplific Corporate Solutions: se sim, é só inserir o chip no aparelho e ai converter
+07/10/2026 10:41 - Tim Empresarial Simplific Corporate Solutions: insere o chip > abre o ajustes> celular > rola pra baixo > converter em eSIM
+07/10/2026 10:41 - Tim Empresarial Simplific Corporate Solutions: e é só aguardar alguns minutos com wifi ativado e conectado
+07/10/2026 10:41 - Tim Empresarial Simplific Corporate Solutions: que vai converter automaticamente pra eSIM e assim que concuir o processo o chip físico para de funcionar, ficando somente ativado o eSIM no aparelho
+07/10/2026 10:41 - Tim Empresarial Simplific Corporate Solutions: basicamente seria isso no iphone 14
+07/10/2026 10:42 - TI | ADVINTEGRA: e se nao aceita chip?:
+07/10/2026 10:42 - TI | ADVINTEGRA: como seria?
+07/10/2026 10:42 - Tim Empresarial Simplific Corporate Solutions: se não aceita chip, seria o caso de iphone 15, 16 , 17.... ai precisa de um cartão eSIM
+07/10/2026 10:43 - Tim Empresarial Simplific Corporate Solutions: Precisa fazer troca de chip para eSIM , tem duas formas retirando em loja um eSIM virgem OU entrega na empresa endereço fiscal. Tendo o cartão eSIM virgem em mãos me manda o número a ser habilitado, fazemos a liberação. Então é só ler o qr code no aparelho, funciona assim pra aparelhos que não tem entrada de chip.
+07/10/2026 10:45 - Tim Empresarial Simplific Corporate Solutions: como vc prefere?
+07/10/2026 10:46 - TI | ADVINTEGRA: Um momento, repassei ao responsavel a informação sobre como fazer pra converter
+07/10/2026 10:48 - Tim Empresarial Simplific Corporate Solutions: blz
+07/10/2026 10:49 - Tim Empresarial Simplific Corporate Solutions: ‎manual conversão eSIM e transferir entre aparelhos.pdf (arquivo anexado)
+manual conversão eSIM e transferir entre aparelhos.pdf
+07/10/2026 11:54 - TI | ADVINTEGRA: o dele nao aceita chip fisico
+07/10/2026 11:54 - TI | ADVINTEGRA: o que orienta a fazer? qual melhor maneira?
+07/10/2026 12:13 - Tim Empresarial Simplific Corporate Solutions: Retirando em loja física o esim virgem pra empresa costuma ser a saída mais rápida
+07/10/2026 12:13 - Tim Empresarial Simplific Corporate Solutions: Eu gero um protocolo de liberação pra retirar em uma loja oficial da Tim
+07/10/2026 12:17 - Tim Empresarial Simplific Corporate Solutions: ‎159432020_protocolo_reposicaotimchip_20260630142005.pdf (arquivo anexado)
+159432020_protocolo_reposicaotimchip_20260630142005.pdf
+07/10/2026 13:49 - TI | ADVINTEGRA: Posso ir em alguma mais próxima aqui ne
+07/10/2026 13:50 - Tim Empresarial Simplific Corporate Solutions: pode sim
+07/10/2026 13:57 - TI | ADVINTEGRA: ela precisa explicar que é um chip esim? ou esta no protocolo?
+07/10/2026 13:57 - TI | ADVINTEGRA: e qual o custo disso? porque como ja é um numero do nosso plano
+07/10/2026 14:03 - Tim Empresarial Simplific Corporate Solutions: Precisa explicar la na hora sim, é importante salientar que é um eSIM virgem para empresa, ali no cartão estará escrito E-SIM.
+07/10/2026 14:04 - Tim Empresarial Simplific Corporate Solutions: e se for em uma loja de outro estado é importante destacar o DDD tb... mas como é DDD 47 se for em uma loja em SC é tranquilo
+07/10/2026 14:05 - Tim Empresarial Simplific Corporate Solutions: Normalmente o custo de eSim é de R$20 , mas tem algumas lojas em promoção por R$15 teria que ir na loja e perguntar ali o preço mesmo, não tem como consultar isso online o preço que cada loja pratica aqui internamente
+07/10/2026 14:09 - TI | ADVINTEGRA: porem esse é o unico custo entao?
+07/10/2026 14:09 - TI | ADVINTEGRA: ou tem mais custos
+07/10/2026 14:10 - Tim Empresarial Simplific Corporate Solutions: Não tem mais nenhum custo não
+07/10/2026 14:11 - Tim Empresarial Simplific Corporate Solutions: é só o custo de retirar um chip de reposição em loja , pago ali na hora no momento da retirada as lojas físicas normalmente são terceiras eles realizam a venda por ali ... mas só atendem planos de CPF, não fazem atendimento CNPJ...
+07/10/2026 14:11 - Tim Empresarial Simplific Corporate Solutions: então depois de pegar o chip virgem ali na loja me manda foto do cod de barras do chip para liberação do número
+07/10/2026 14:11 - Tim Empresarial Simplific Corporate Solutions: liberando o número da estrutura no cartão eSIM
+07/10/2026 14:11 - Tim Empresarial Simplific Corporate Solutions: depois de liberado é só ler o qr code
+07/10/2026 14:12 - Tim Empresarial Simplific Corporate Solutions: e ai tudo certo só usar neste caso
+07/10/2026 14:12 - TI | ADVINTEGRA: ok, vou pedir pra alguem fazer essa retirada entao
+07/10/2026 14:12 - TI | ADVINTEGRA: outro ponto agora que preciso ver
+07/10/2026 14:13 - Tim Empresarial Simplific Corporate Solutions: qualquer problema me avisa, em caso de não encontrarem o protocolo la na loja posso gerar outro se necessário
+07/10/2026 14:13 - TI | ADVINTEGRA: quando pedi a equiparação dos planos e valores, comentei que tenho varios numeros que não estão mais sendo usados, e nao sei onde estão esses chips
+07/10/2026 14:13 - TI | ADVINTEGRA: gostaria de ver qual o procedimento, a ideia é cancelar esses numeros, pois estamos pagando a toa
+07/10/2026 14:13 - TI | ADVINTEGRA: como podemos fazer o cancelamento dessas linhas pra baixar o valor mensal do plano?
+07/10/2026 14:14 - Tim Empresarial Simplific Corporate Solutions: quais linhas seriam?
+07/10/2026 14:14 - Tim Empresarial Simplific Corporate Solutions: pode me passar uma relação
+07/10/2026 14:19 - TI | ADVINTEGRA: Tim Black Empresa III-PR	41996260011
+Tim Black Empresa III-PR	41999186454
+Tim Black Empresa III-SC	48999570231
+Tim Black Empresa III-SC	48999570330
+Tim Black Empresa III-SC	48999570384
+Tim Black Empresa III-GO	62982840023
+Tim Black Empresa III-GO	62982980062
+Tim Black Empresa III-GO	62982980064
+Tim Black Empresa III-GO	62984790043
+Tim Black Empresa III-SC	47999890271
+Tim Black Empresa III-RS	51984610008
+Tim Black Empresa III-PI	86998140074
+Tim Black Empresa III-PI	86998440395
+Tim Black Empresa III-PI	86998570361
+Tim Black Empresa III-MG	34991810010
+Tim Black Empresa III-MG	34993380105
+08/10/2026 10:47 - Tim Empresarial Simplific Corporate Solutions: opa bom dia tudo bem?
+08/10/2026 10:49 - Tim Empresarial Simplific Corporate Solutions: retornaram a respeito da contestação
+08/10/2026 10:50 - Tim Empresarial Simplific Corporate Solutions: Acesso      Oferta      Valor COBRADO (INCORRETO)     VALOR CORRETO     DIFERENCA
+47996104352 6GB   R$ 56,23    29,99 R$ 26,24
+47997041194 6GB   R$ 48,89    29,99 R$ 18,90
+47997150316 6GB   R$ 46,47    29,99 R$ 16,48
+47997150335 6GB   R$ 46,47    29,99 R$ 16,48
+47999520993 6GB   R$ 46,47    29,99 R$ 16,48
+47996400446 6GB   R$ 44,32    29,99 R$ 14,33
+47999340282 6GB   R$ 44,32    29,99 R$ 14,33
+47999345188 6GB   R$ 44,32    29,99 R$ 14,33
+47999348701 6GB   R$ 44,32    29,99 R$ 14,33
+47999348706 6GB   R$ 44,32    29,99 R$ 14,33
+47999348852 6GB   R$ 44,32    29,99 R$ 14,33
+47999348882 6GB   R$ 44,32    29,99 R$ 14,33
+47997600096 6GB   R$ 41,66    29,99 R$ 11,67
+47996700327 6GB   R$ 35,67    29,99 R$ 5,68
+47996700333 6GB   R$ 35,67    29,99 R$ 5,68
+43999100083 6GB   R$ 35,56    29,99 R$ 5,57
+47997420921 6GB   R$ 35,56    29,99 R$ 5,57
+47997420951 6GB   R$ 35,56    29,99 R$ 5,57
+43999514572 6GB   R$ 35,19    29,99 R$ 5,20
+43998470041 6GB   R$ 34,95    29,99 R$ 4,96
+43998470067 6GB   R$ 34,95    29,99 R$ 4,96
+47999890271 6GB   R$ 34,95    29,99 R$ 4,96
+43998117281 6GB   R$ 31,81    29,99 R$ 1,82
+
+Valor indevido:  R$256,53
+
+Valor R$256,53 lançado como crédito no código 7.1726339.10 devido fatura constar paga em sistema.
+
+Realizada a correção dos valores.
+08/10/2026 10:50 - Tim Empresarial Simplific Corporate Solutions: Realizada a abertura do protocolo 2026687470371 para ajuste da fatura vencimento 20/10/2026 assim que for disponibilizada em sistema, pedimos que aguarde o envio do boleto corrigido para pagamento.
+
+Qualquer dúvida estamos a disposição.
+
+O protocolo gerado neste atendimento foi finalizado: 2026656717080
+
+Atenciosamente;
+Back Office Contas Corporativo PME/PRIME
+08/10/2026 10:56 - TI | ADVINTEGRA: ‎PTT-20261008-WA0005.opus (arquivo anexado)
+08/10/2026 10:57 - TI | ADVINTEGRA: ‎PTT-20261008-WA0006.opus (arquivo anexado)
+08/10/2026 10:57 - TI | ADVINTEGRA: ‎PTT-20261008-WA0007.opus (arquivo anexado)
+08/10/2026 11:38 - Tim Empresarial Simplific Corporate Solutions: Sim sim, é basicamente isso,  os valores das linhas aprovadas ali na contestação foram ajustados para vir corretamente nas proximas faturas  que é o valor de R$29,99
+08/10/2026 11:39 - Tim Empresarial Simplific Corporate Solutions: e além disso, foi gerado um crédito de R$256,53 , referente a fatura paga onde os valores estavam divergentes... e este crédito será aplicado na próxima fatura mês 10 (mes atual mesmo)
+08/10/2026 11:39 - Tim Empresarial Simplific Corporate Solutions: E referente as linhas que vc deseja realizar o cancelamento eu vou avaliar quando conseguimos cancelar cada uma das linhas e ja te passo certinho
+08/10/2026 13:51 - TI | ADVINTEGRA: Se puder dar prioridade pra isso agora, ate porque gostaria de virar o mes com esssas linhas canceladas
+08/10/2026 13:51 - TI | ADVINTEGRA: Após todas essas correções, voce consegue gerar um novo relatorio igual gerou da ultima vez? Com valores etc?
+08/10/2026 14:35 - Tim Empresarial Simplific Corporate Solutions: sim sim claro
+09/10/2026 10:13 - TI | ADVINTEGRA: Bom dia, tudo bem?
+09/10/2026 10:22 - Tim Empresarial Simplific Corporate Solutions: bom dia tudo bem sim e vc ?
+13/10/2026 08:58 - TI | ADVINTEGRA: Bom dia
+13/10/2026 08:58 - TI | ADVINTEGRA: Tudo bem?
+13/10/2026 08:58 - TI | ADVINTEGRA: Preciso resolver esses numeros essa semana
+13/10/2026 08:58 - TI | ADVINTEGRA: Consegue me ajudar? <Mensagem editada>
+13/10/2026 11:53 - Tim Empresarial Simplific Corporate Solutions: Oi bom dia tudo bem sim e vc ??
+
+Consigo sim te ajudar é claro!!
+13/10/2026 11:53 - TI | ADVINTEGRA: Qual é o procedimento? O que mais eu preciso fazer? As linhas estão aqui
+13/10/2026 12:50 - Tim Empresarial Simplific Corporate Solutions: Esta sendo providenciado uma relação dos prazos pra cancelamento sem multa e vou te passar referente a cada uma das linhas
+13/10/2026 12:50 - Tim Empresarial Simplific Corporate Solutions: Só aguardar
+13/10/2026 14:14 - Tim Empresarial Simplific Corporate Solutions: NUMERO / DATA PRA CANCELAMENTO SEM MULTA
+62982840023	06/08/2027
+86998140074	29/08/2027
+86998570361	10/10/2027
+34993380105	06/11/2027
+41996260011	12/11/2027
+62982980062	17/12/2027
+62982980064	17/12/2027
+47999890271	15/01/2028
+34991810010	15/01/2028
+48999570231	29/01/2028
+48999570330	29/01/2028
+48999570384	29/01/2028
+51984610008	12/02/2028
+62984790043	07/04/2028
+86998440395	29/04/2028
+41999186454	06/08/2028
+13/10/2026 14:51 - TI | ADVINTEGRA: Consegue explicar melhor? <Mensagem editada>
+13/10/2026 14:59 - TI | ADVINTEGRA: Nao entendi a parte da multa
+13/10/2026 15:11 - Tim Empresarial Simplific Corporate Solutions: Quando vcs contratatam linhas no corporativo de qualquer operadora inclusive na TIM, como era feito com o Sr Carlos e depois  a Sra Cristina... e agora iniciamos com você...
+
+As linhas tem sempre ciclos de 24 meses, e no fim dos ciclos podemos realizar os cancelamentos
+13/10/2026 15:12 - Tim Empresarial Simplific Corporate Solutions: E ai estas linhas são removidas das próximas renovações... e as proximas contratações e renovações a partir de agora serão feitas com você... 
+
+Quando vc precisar cancelar linhas, ou contestar faturas e alguma outra demanda pode sempre pedir aqui comigo.
+13/10/2026 15:13 - Tim Empresarial Simplific Corporate Solutions: estas acima são as datas que podemos cancelar sem multa as linhas nas quais vc me enviou na relação
+13/10/2026 15:13 - Tim Empresarial Simplific Corporate Solutions: eu posso ir te auxiliando no acompanhamento disso
+13/10/2026 15:13 - TI | ADVINTEGRA: e qual seria o valor das ,multas para cada linha?
+13/10/2026 15:15 - TI | ADVINTEGRA: Quero ver se vale a pena cancelar ou continuar pagando]
+13/10/2026 15:22 - TI | ADVINTEGRA: onde eu consigo visualizar a data de cadastro do numero no portal meutim?
+13/10/2026 15:23 - TI | ADVINTEGRA: ‎IMG-20261013-WA0017.jpg (arquivo anexado)
+13/10/2026 16:30 - TI | ADVINTEGRA: ?
+13/10/2026 16:51 - Tim Empresarial Simplific Corporate Solutions: O sistema meu tim Basicamente serve para gerar segunda via de contas,
+
+Ou caso precise fazer troca de chips por falha de funcionamento, ou perdas... troca de chip físico para eSIM... 
+
+Ou chat de suporte em caso de falha técnita no uso de linhas...
+13/10/2026 16:51 - Tim Empresarial Simplific Corporate Solutions: Se você quer uma redução imediata nas linhas sugestão seria bloquear as linhas assim elas não são cobradas na fatura no período suspenso.
+13/10/2026 16:52 - Tim Empresarial Simplific Corporate Solutions: assim a redução vem a partir do mês seguinte , no caso no próximo ciclo ja não seriam cobradas pelas linhas que ficarem bloqueadas(suspensas)
+13/10/2026 16:52 - TI | ADVINTEGRA: Quando sai o valor pra cancelar?
+13/10/2026 16:52 - TI | ADVINTEGRA: suspensa nao adianta pra mim, nao vamos mais utilizar
+13/10/2026 16:52 - TI | ADVINTEGRA: o certo seria cancelar mesmo
+13/10/2026 21:32 - Tim Empresarial Simplific Corporate Solutions: NUMERO	/ DATA PRA CANCELAMENTO (SEM MULTA) /	Valor de Multa Por Linha (CANCELAMENTO HOJE)
+62982840023	06/08/2027	 R$ 299,90 
+86998140074	29/08/2027	 R$ 299,90 
+86998570361	10/10/2027	 R$ 479,87 
+34993380105	06/11/2027	 R$ 662,87 
+41996260011	12/11/2027	 R$ 389,87 
+62982980062	17/12/2027	 R$ 419,86 
+62982980064	17/12/2027	 R$ 419,86 
+47999890271	15/01/2028	 R$ 839,85 
+34991810010	15/01/2028	 R$ 839,85 
+48999570231	29/01/2028	 R$ 449,85 
+48999570330	29/01/2028	 R$ 449,85 
+48999570384	29/01/2028	 R$ 449,85 
+51984610008	12/02/2028	 R$ 479,84 
+62984790043	07/04/2028	 R$ 539,82 
+86998440395	29/04/2028	 R$ 539,82 
+41999186454	06/08/2028	 R$ 1.121,78
+14/10/2026 07:54 - TI | ADVINTEGRA: Bom dia.
+14/10/2026 07:55 - TI | ADVINTEGRA: Outra duvida, onde eu consigo ver a data de contratação desses numeros? Para saber se essa multa é devida por estrar detro dos 24 meses
+14/10/2026 07:59 - Tim Empresarial Simplific Corporate Solutions: Oi bom dia tudo bem??
+As linhas tem período de 24 meses que renovam automaticamente por mais 24, as linhas que vc deseja cancelar nos removemos da renovação pra poderem ser canceladas no fim de cada período. <Mensagem editada>
+14/10/2026 08:06 - TI | ADVINTEGRA: Tudo bem, isso eu entendi. O que queria saber, é onde eu vejo quando ela foi contratada? Nao posso ter essa informação?
+14/10/2026 08:10 - Tim Empresarial Simplific Corporate Solutions: Vou verificar e te passo a informação
+14/10/2026 11:18 - TI | ADVINTEGRA: Beleza, precisava visualizar essas informações, contratos desses numeros, datas de ativação etc
+14/10/2026 11:19 - TI | ADVINTEGRA: Outra duvida, se for o caso de desativarmos essas linhas, para nao precisar pagar o cancelamento, como funciona? Tem algum custo? Elas ficam pertencendo a nós ainda porem 'invisíveis'? e os valores são abatidos do valor mensal? isso?
+14/10/2026 11:19 - TI | ADVINTEGRA: e se eu usar elas 'bloqueadas' ate a data limite de cancelamento sem multa, posso cancelar elas depois sem pagar multa quando atingir a data?
+14/10/2026 11:58 - Tim Empresarial Simplific Corporate Solutions: *PRIMEIRA ATIVAÇÃO:*
+
+47999890271	Ativação: 27/03/2023 
+
+34993380105	Ativação: 31/05/2024 
+
+34991810010	Ativação: 19/09/2024 
+
+41999186454	Ativação: 14/04/2025 
+
+62982840023	Ativação: 06/08/2025 
+
+86998140074     Ativação: 27/08/2025 
+
+86998570361	Ativação: 10/10/2025 
+
+41996260011	Ativação: 12/11/2025 
+
+62982980062	Ativação: 12/12/2025 
+
+62982980064	Ativação: 12/12/2025 
+
+48999570231	Ativação: 29/01/2026 
+
+48999570330	Ativação: 29/01/2026 
+
+48999570384	Ativação: 29/01/2026 
+
+51984610008	Ativação: 12/02/2026 
+
+62984790043	Ativação: 27/03/2026 
+
+86998440395	Ativação: 24/04/2026
+14/10/2026 11:59 - Tim Empresarial Simplific Corporate Solutions: se bloquear as linhas naõ tem nenhum custo , mas prorroga a fidelidade no período que ficou bloqueado, os bloqueios tem ciclo de até 4 meses então as linhas reativam automaticamente , mas pode bloquear novamente, não tem limite de bloqueios
+14/10/2026 11:59 - Tim Empresarial Simplific Corporate Solutions: da pra bloquear e liberar quantas vezes forem necessárias
+14/10/2026 11:59 - Tim Empresarial Simplific Corporate Solutions: mas isso influencia pq a fidelidade depois ela prorroga pelo tempo que ficou suspenso
+14/10/2026 12:00 - Tim Empresarial Simplific Corporate Solutions: mas neste período as linhas não funcionam e também não são cobradas na fatura
+14/10/2026 12:01 - Tim Empresarial Simplific Corporate Solutions: algumas sugestões que fazemos com outros clientes nesta mesma situação , é bloquear todas, e então ir reativando as com vencimento mais proximo de 5 em 5 ou 10 em 10 ... assim tem redução de custos dentro do período e na medida que cancelar as linhas aptas pra cancelamento reativamos as demais linhas pra descontar a fidelidade e ai cancelar no fim do ciclo de cada linha
+14/10/2026 13:37 - TI | ADVINTEGRA: essa informação, eu cliente, nao tenho onde visualizar todas as datas de ativação?
+14/10/2026 14:17 - TI | ADVINTEGRA: Voce teria o nosso contrato do plano? No painel nao tem nada disso, complicado esse painel
+14/10/2026 14:45 - Tim Empresarial Simplific Corporate Solutions: Infelizmente não tem disponível esta informação
+14/10/2026 14:47 - Tim Empresarial Simplific Corporate Solutions: Entendo, infelizmente o portal está passando por melhorias internas e assim que possível nosso TI irá disponibilizar melhorias de acordo com o planejamento das áreas respectivas, em relação a isso eu faço posicionamentos internos a respeito desta "dor de cliente(usuário)" , para que busquem melhorias neste sistema
+14/10/2026 15:31 - TI | ADVINTEGRA: Entao o contrato que temos com voces
+14/10/2026 15:31 - TI | ADVINTEGRA: Onde eu consigo isso
+14/10/2026 15:31 - TI | ADVINTEGRA: Preciso verificar
+14/10/2026 15:43 - Tim Empresarial Simplific Corporate Solutions: Estes documentos vão para o e-mail do adm cadastrado no momento que gerado o pedido, infelizmente não consigo gerar segunda via por conta da LGPD , o que consigo seria o contrato de prestação de serviços da TIM que é contrato padrão que é válido para os clientes da base tim CNPJ. É enviado junto da primeira contratação, mas toda vez que gerar novos pedidos de linhas adicionais respeita o mesmo documento.
+14/10/2026 15:44 - Tim Empresarial Simplific Corporate Solutions: ‎Contrato Corporativo TIM - CLIENTE.pdf (arquivo anexado)
+Contrato Corporativo TIM - CLIENTE.pdf
+14/10/2026 15:50 - TI | ADVINTEGRA: Outra duvida, quando a gente contratou esses numeros que estão com fidelidade ainda, era assinado alguma coisa? que especificava essa fidelidade de 24 meses?
+14/10/2026 15:50 - TI | ADVINTEGRA: pergunto porque estou cuidando dessa parte financeira agora, a pessoa que solicitava isso ja nao esta mais
+14/10/2026 15:50 - TI | ADVINTEGRA: quero entender certinho como era feito
+14/10/2026 15:52 - Tim Empresarial Simplific Corporate Solutions: Sem problemas,  eu estarei feliz em auxiliar com tudo que eu tiver a disposição, farei o meu melhor dentro do que tenho disponível
+14/10/2026 15:53 - Tim Empresarial Simplific Corporate Solutions: Da pra validar por voz, por aceite digital, por validação digital,  depende do serviço que está contratando
+14/10/2026 15:53 - Tim Empresarial Simplific Corporate Solutions: Tem como validar aqui pelo WhatsApp também em alguns casos
+14/10/2026 15:54 - Tim Empresarial Simplific Corporate Solutions: Por exemplo roaming internacional,  entre outras demandas
+14/10/2026 15:54 - Tim Empresarial Simplific Corporate Solutions: De acordo com a sua necessidade vamos trabalhando pra te auxiliar e eu vou te guiando e auxiliando
+14/10/2026 15:54 - TI | ADVINTEGRA: mas tem um documento falando que a gente solicitou a contratação de algum desses numeros, e que nele fale sobre a fidelidade de 24 meses?
+14/10/2026 16:01 - Tim Empresarial Simplific Corporate Solutions: Referente a Permanência das linhas é um termo padrão que é válido para todas as linhas, mas cada linha tem sua fidelidade independente uma da outra. Entende?
+14/10/2026 16:02 - Tim Empresarial Simplific Corporate Solutions: ‎CONTRATO-PERMANENCIA-ADVINTEGRA SOLUCOES TRIBUTARIAS LTDA.pdf (arquivo anexado)
+CONTRATO-PERMANENCIA-ADVINTEGRA SOLUCOES TRIBUTARIAS LTDA.pdf
+14/10/2026 16:10 - Tim Empresarial Simplific Corporate Solutions: das linhas que forem ficando aptas pra renovação eu posso te avisar, e as linhas que vc vai cancelar serão removidas das renovações para podermos cancelar
+14/10/2026 16:10 - Tim Empresarial Simplific Corporate Solutions: e ai podemos fazer o seguinte customizamos a melhor condição das linhas que vcs vão permanecer de forma personalizada
+14/10/2026 16:11 - Tim Empresarial Simplific Corporate Solutions: eu vou te auxiliando em relação a isso
+14/10/2026 16:21 - TI | ADVINTEGRA: nao entenid
+14/10/2026 16:26 - Tim Empresarial Simplific Corporate Solutions: No caso destas linhas que vc deseja cancelar, não serão renovadas... 
+
+Vou te auxiliando neste gerenciamento
+14/10/2026 16:27 - TI | ADVINTEGRA: ok, nao quero que seja renovada mais
+14/10/2026 16:28 - TI | ADVINTEGRA: sobre essa renovação automatica, esta descrito aqui no contrato?
+14/10/2026 16:30 - Tim Empresarial Simplific Corporate Solutions: Sim esta descrito nos termos
