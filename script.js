@@ -77,7 +77,7 @@ function renderMessages(messages) {
         const messageEl = document.createElement('div');
         if (!msg.author) {
             messageEl.classList.add('system-message');
-            messageEl.textContent = `${msg.timestamp.split(', ')[1]} - ${msg.content}`;
+            messageEl.textContent = `${msg.timestamp} - ${msg.content}`;
             chatContainer.appendChild(messageEl);
             return;
         }
@@ -104,7 +104,7 @@ function renderMessages(messages) {
         // Timestamp
         const timestampEl = document.createElement('div');
         timestampEl.classList.add('timestamp');
-        timestampEl.textContent = msg.timestamp.split(', ')[1]; // Apenas a hora
+        timestampEl.textContent = msg.timestamp;
         messageEl.appendChild(timestampEl);
 
         chatContainer.appendChild(messageEl);
